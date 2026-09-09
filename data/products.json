@@ -1,0 +1,6791 @@
+[
+  {
+    "id": "basreng",
+    "name": "Basreng",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 10000,
+    "lastUpdated": "2026-08-15",
+    "emoji": "🌶️",
+    "tags": [
+      "kering",
+      "pedas",
+      "snack",
+      "tahan-lama"
+    ]
+  },
+  {
+    "id": "makaroni",
+    "name": "Makaroni Goreng",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 8000,
+    "lastUpdated": "2026-08-15",
+    "emoji": "🍝",
+    "tags": [
+      "kering",
+      "snack",
+      "tahan-lama"
+    ]
+  },
+  {
+    "id": "keripik-kentang",
+    "name": "Keripik Kentang",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 12000,
+    "lastUpdated": "2026-08-20",
+    "emoji": "🥔",
+    "tags": [
+      "kering",
+      "snack",
+      "tahan-lama"
+    ]
+  },
+  {
+    "id": "seblak-kering",
+    "name": "Seblak Kering",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 15000,
+    "lastUpdated": "2026-08-18",
+    "emoji": "🔥",
+    "tags": [
+      "kering",
+      "pedas",
+      "snack",
+      "tahan-lama"
+    ]
+  },
+  {
+    "id": "cireng",
+    "name": "Cireng",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 10000,
+    "lastUpdated": "2026-08-15",
+    "emoji": "🧀",
+    "tags": [
+      "basah",
+      "segar",
+      "snack"
+    ]
+  },
+  {
+    "id": "kacang-garuda",
+    "name": "Kacang Garuda",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 7000,
+    "lastUpdated": "2026-08-10",
+    "emoji": "🥜",
+    "tags": [
+      "kering",
+      "snack",
+      "tahan-lama"
+    ]
+  },
+  {
+    "id": "permen-kopiko",
+    "name": "Permen Kopiko",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 5000,
+    "lastUpdated": "2026-08-12",
+    "emoji": "🍬",
+    "tags": [
+      "kering",
+      "manis",
+      "tahan-lama"
+    ]
+  },
+  {
+    "id": "cokelat-silverqueen",
+    "name": "SilverQueen",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 15000,
+    "lastUpdated": "2026-08-20",
+    "emoji": "🍫",
+    "tags": [
+      "cokelat",
+      "kering",
+      "manis",
+      "tahan-lama"
+    ]
+  },
+  {
+    "id": "roma-biscuit",
+    "name": "Roma Biscuit",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 6000,
+    "lastUpdated": "2026-08-10",
+    "emoji": "🍪",
+    "tags": [
+      "kering",
+      "manis",
+      "tahan-lama"
+    ]
+  },
+  {
+    "id": "jelly-inaco",
+    "name": "Jelly Inaco",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 5000,
+    "lastUpdated": "2026-08-12",
+    "emoji": "🍮",
+    "tags": [
+      "manis"
+    ]
+  },
+  {
+    "id": "snack-kiloan",
+    "name": "Snack Kiloan",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 25000,
+    "lastUpdated": "2026-08-18",
+    "emoji": "📦",
+    "tags": [
+      "bulk",
+      "snack"
+    ]
+  },
+  {
+    "id": "minuman-sachet",
+    "name": "Minuman Sachet (Nutrisari / dll)",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 3000,
+    "lastUpdated": "2026-08-15",
+    "emoji": "🥤",
+    "tags": [
+      "minuman"
+    ]
+  },
+  {
+    "id": "roti-tawar",
+    "name": "Roti Tawar",
+    "category": "indomaret",
+    "store": "Indomaret",
+    "price": 15000,
+    "lastUpdated": "2026-08-25",
+    "emoji": "🍞",
+    "tags": [
+      "makanan"
+    ]
+  },
+  {
+    "id": "susu-uht",
+    "name": "Susu UHT",
+    "category": "indomaret",
+    "store": "Indomaret",
+    "price": 8000,
+    "lastUpdated": "2026-08-25",
+    "emoji": "🥛",
+    "tags": [
+      "minuman"
+    ]
+  },
+  {
+    "id": "yogurt",
+    "name": "Yogurt",
+    "category": "indomaret",
+    "store": "Indomaret",
+    "price": 7000,
+    "lastUpdated": "2026-08-25",
+    "emoji": "🍶",
+    "tags": [
+      "minuman"
+    ]
+  },
+  {
+    "id": "cereal",
+    "name": "Cereal",
+    "category": "indomaret",
+    "store": "Indomaret",
+    "price": 25000,
+    "lastUpdated": "2026-08-20",
+    "emoji": "🥣",
+    "tags": [
+      "makanan"
+    ]
+  },
+  {
+    "id": "tissue",
+    "name": "Tissue",
+    "category": "indomaret",
+    "store": "Indomaret",
+    "price": 12000,
+    "lastUpdated": "2026-08-22",
+    "emoji": "🧻",
+    "tags": [
+      "kebersihan"
+    ]
+  },
+  {
+    "id": "sabun-mandi",
+    "name": "Sabun Mandi",
+    "category": "indomaret",
+    "store": "Indomaret",
+    "price": 8000,
+    "lastUpdated": "2026-08-22",
+    "emoji": "🧼",
+    "tags": [
+      "toiletries"
+    ]
+  },
+  {
+    "id": "shampoo",
+    "name": "Shampoo",
+    "category": "indomaret",
+    "store": "Indomaret",
+    "price": 18000,
+    "lastUpdated": "2026-08-22",
+    "emoji": "🧴",
+    "tags": [
+      "toiletries"
+    ]
+  },
+  {
+    "id": "pasta-gigi",
+    "name": "Pasta Gigi",
+    "category": "indomaret",
+    "store": "Indomaret",
+    "price": 12000,
+    "lastUpdated": "2026-08-22",
+    "emoji": "🪥",
+    "tags": [
+      "toiletries"
+    ]
+  },
+  {
+    "id": "deodorant",
+    "name": "Deodorant",
+    "category": "indomaret",
+    "store": "Indomaret",
+    "price": 15000,
+    "lastUpdated": "2026-08-20",
+    "emoji": "💨",
+    "tags": [
+      "toiletries"
+    ]
+  },
+  {
+    "id": "minuman-botol",
+    "name": "Minuman Botol",
+    "category": "indomaret",
+    "store": "Indomaret",
+    "price": 6000,
+    "lastUpdated": "2026-08-25",
+    "emoji": "🥤",
+    "tags": [
+      "minuman"
+    ]
+  },
+  {
+    "id": "fried-chicken",
+    "name": "Fried Chicken",
+    "category": "makanan",
+    "store": "Restoran / Delivery",
+    "price": 25000,
+    "lastUpdated": "2026-08-20",
+    "emoji": "🍗",
+    "tags": [
+      "makanan"
+    ]
+  },
+  {
+    "id": "burger",
+    "name": "Burger",
+    "category": "makanan",
+    "store": "Restoran / Delivery",
+    "price": 20000,
+    "lastUpdated": "2026-08-20",
+    "emoji": "🍔",
+    "tags": [
+      "makanan"
+    ]
+  },
+  {
+    "id": "pizza-slice",
+    "name": "Pizza Slice",
+    "category": "makanan",
+    "store": "Restoran / Delivery",
+    "price": 30000,
+    "lastUpdated": "2026-08-18",
+    "emoji": "🍕",
+    "tags": [
+      "makanan"
+    ]
+  },
+  {
+    "id": "kebab",
+    "name": "Kebab",
+    "category": "makanan",
+    "store": "Restoran / Delivery",
+    "price": 18000,
+    "lastUpdated": "2026-08-18",
+    "emoji": "🥙",
+    "tags": [
+      "makanan"
+    ]
+  },
+  {
+    "id": "donut",
+    "name": "Donut",
+    "category": "makanan",
+    "store": "Toko Roti",
+    "price": 10000,
+    "lastUpdated": "2026-08-15",
+    "emoji": "🍩",
+    "tags": [
+      "basah",
+      "manis",
+      "segar"
+    ]
+  },
+  {
+    "id": "martabak",
+    "name": "Martabak",
+    "category": "makanan",
+    "store": "Warung",
+    "price": 35000,
+    "lastUpdated": "2026-08-20",
+    "emoji": "🥞",
+    "tags": [
+      "basah",
+      "makanan",
+      "segar"
+    ]
+  },
+  {
+    "id": "soap",
+    "name": "Sabun Wajah",
+    "category": "toiletries",
+    "store": "Indomaret / Apotek",
+    "price": 25000,
+    "lastUpdated": "2026-08-22",
+    "emoji": "🧼",
+    "tags": [
+      "skincare"
+    ]
+  },
+  {
+    "id": "conditioner",
+    "name": "Conditioner",
+    "category": "toiletries",
+    "store": "Indomaret",
+    "price": 20000,
+    "lastUpdated": "2026-08-22",
+    "emoji": "🧴",
+    "tags": [
+      "rambut"
+    ]
+  },
+  {
+    "id": "toothbrush",
+    "name": "Sikat Gigi",
+    "category": "toiletries",
+    "store": "Indomaret",
+    "price": 8000,
+    "lastUpdated": "2026-08-20",
+    "emoji": "🪥",
+    "tags": [
+      "kebersihan"
+    ]
+  },
+  {
+    "id": "face-wash",
+    "name": "Face Wash",
+    "category": "toiletries",
+    "store": "Indomaret / Apotek",
+    "price": 30000,
+    "lastUpdated": "2026-08-22",
+    "emoji": "✨",
+    "tags": [
+      "skincare"
+    ]
+  },
+  {
+    "id": "pens",
+    "name": "Pulpen",
+    "category": "atk",
+    "store": "Toko ATK",
+    "price": 5000,
+    "lastUpdated": "2026-08-15",
+    "emoji": "🖊️",
+    "tags": [
+      "alat tulis"
+    ]
+  },
+  {
+    "id": "pencils",
+    "name": "Pensil",
+    "category": "atk",
+    "store": "Toko ATK",
+    "price": 3000,
+    "lastUpdated": "2026-08-15",
+    "emoji": "✏️",
+    "tags": [
+      "alat tulis"
+    ]
+  },
+  {
+    "id": "eraser",
+    "name": "Penghapus",
+    "category": "atk",
+    "store": "Toko ATK",
+    "price": 2000,
+    "lastUpdated": "2026-08-15",
+    "emoji": "🧹",
+    "tags": [
+      "alat tulis"
+    ]
+  },
+  {
+    "id": "ruler",
+    "name": "Penggaris",
+    "category": "atk",
+    "store": "Toko ATK",
+    "price": 4000,
+    "lastUpdated": "2026-08-15",
+    "emoji": "📏",
+    "tags": [
+      "alat tulis"
+    ]
+  },
+  {
+    "id": "notebook",
+    "name": "Buku Tulis",
+    "category": "atk",
+    "store": "Toko ATK",
+    "price": 8000,
+    "lastUpdated": "2026-08-18",
+    "emoji": "📓",
+    "tags": [
+      "alat tulis"
+    ]
+  },
+  {
+    "id": "highlighter",
+    "name": "Stabilo / Highlighter",
+    "category": "atk",
+    "store": "Toko ATK",
+    "price": 7000,
+    "lastUpdated": "2026-08-15",
+    "emoji": "🖍️",
+    "tags": [
+      "alat tulis"
+    ]
+  },
+  {
+    "id": "correction-tape",
+    "name": "Correction Tape",
+    "category": "atk",
+    "store": "Toko ATK",
+    "price": 6000,
+    "lastUpdated": "2026-08-15",
+    "emoji": "📎",
+    "tags": [
+      "alat tulis"
+    ]
+  },
+  {
+    "id": "binder",
+    "name": "Binder",
+    "category": "atk",
+    "store": "Toko ATK",
+    "price": 25000,
+    "lastUpdated": "2026-08-18",
+    "emoji": "📁",
+    "tags": [
+      "alat tulis"
+    ]
+  },
+  {
+    "id": "sticky-notes",
+    "name": "Sticky Notes",
+    "category": "atk",
+    "store": "Toko ATK",
+    "price": 8000,
+    "lastUpdated": "2026-08-15",
+    "emoji": "📝",
+    "tags": [
+      "alat tulis"
+    ]
+  },
+  {
+    "id": "tshirt",
+    "name": "Kaos / T-Shirt",
+    "category": "pakaian",
+    "store": "Toko Baju",
+    "price": 50000,
+    "lastUpdated": "2026-08-10",
+    "emoji": "👕",
+    "tags": [
+      "pakaian"
+    ]
+  },
+  {
+    "id": "pants",
+    "name": "Celana",
+    "category": "pakaian",
+    "store": "Toko Baju",
+    "price": 80000,
+    "lastUpdated": "2026-08-10",
+    "emoji": "👖",
+    "tags": [
+      "pakaian"
+    ]
+  },
+  {
+    "id": "socks",
+    "name": "Kaos Kaki",
+    "category": "pakaian",
+    "store": "Toko Baju",
+    "price": 15000,
+    "lastUpdated": "2026-08-12",
+    "emoji": "🧦",
+    "tags": [
+      "pakaian"
+    ]
+  },
+  {
+    "id": "hijab",
+    "name": "Hijab / Kerudung",
+    "category": "pakaian",
+    "store": "Toko Baju",
+    "price": 35000,
+    "lastUpdated": "2026-08-15",
+    "emoji": "🧕",
+    "tags": [
+      "pakaian"
+    ]
+  },
+  {
+    "id": "inner",
+    "name": "Inner / Ciput",
+    "category": "pakaian",
+    "store": "Toko Baju",
+    "price": 20000,
+    "lastUpdated": "2026-08-15",
+    "emoji": "🎀",
+    "tags": [
+      "pakaian"
+    ]
+  },
+  {
+    "id": "mukena",
+    "name": "Mukena",
+    "category": "pakaian",
+    "store": "Toko Baju / Pondok",
+    "price": 75000,
+    "lastUpdated": "2026-08-10",
+    "emoji": "🕌",
+    "tags": [
+      "ibadah",
+      "pakaian"
+    ]
+  },
+  {
+    "id": "pajamas",
+    "name": "Piyama",
+    "category": "pakaian",
+    "store": "Toko Baju",
+    "price": 60000,
+    "lastUpdated": "2026-08-12",
+    "emoji": "🛌",
+    "tags": [
+      "pakaian"
+    ]
+  },
+  {
+    "id": "sarong",
+    "name": "Sarung",
+    "category": "pondok",
+    "store": "Toko / Pondok",
+    "price": 45000,
+    "lastUpdated": "2026-08-10",
+    "emoji": "🕌",
+    "tags": [
+      "ibadah"
+    ]
+  },
+  {
+    "id": "quran",
+    "name": "Al-Qur'an",
+    "category": "pondok",
+    "store": "Toko Buku",
+    "price": 85000,
+    "lastUpdated": "2026-08-05",
+    "emoji": "📖",
+    "tags": [
+      "ibadah"
+    ]
+  },
+  {
+    "id": "books",
+    "name": "Buku Pelajaran",
+    "category": "pondok",
+    "store": "Toko Buku",
+    "price": 40000,
+    "lastUpdated": "2026-08-10",
+    "emoji": "📚",
+    "tags": [
+      "belajar"
+    ]
+  },
+  {
+    "id": "bag",
+    "name": "Tas / Bag",
+    "category": "pondok",
+    "store": "Toko",
+    "price": 75000,
+    "lastUpdated": "2026-08-12",
+    "emoji": "🎒",
+    "tags": [
+      "keperluan"
+    ]
+  },
+  {
+    "id": "sandals",
+    "name": "Sandal",
+    "category": "pondok",
+    "store": "Toko",
+    "price": 35000,
+    "lastUpdated": "2026-08-15",
+    "emoji": "🩴",
+    "tags": [
+      "keperluan"
+    ]
+  },
+  {
+    "id": "laundry-bag",
+    "name": "Laundry Bag",
+    "category": "pondok",
+    "store": "Toko",
+    "price": 25000,
+    "lastUpdated": "2026-08-15",
+    "emoji": "🧺",
+    "tags": [
+      "keperluan"
+    ]
+  },
+  {
+    "id": "hanger",
+    "name": "Hanger",
+    "category": "pondok",
+    "store": "Toko",
+    "price": 15000,
+    "lastUpdated": "2026-08-12",
+    "emoji": "👔",
+    "tags": [
+      "keperluan"
+    ]
+  },
+  {
+    "id": "water-bottle",
+    "name": "Botol Minum",
+    "category": "pondok",
+    "store": "Toko",
+    "price": 30000,
+    "lastUpdated": "2026-08-18",
+    "emoji": "🧴",
+    "tags": [
+      "keperluan"
+    ]
+  },
+  {
+    "id": "charger",
+    "name": "Charger HP",
+    "category": "electronics",
+    "store": "Toko Elektronik",
+    "price": 50000,
+    "lastUpdated": "2026-08-15",
+    "emoji": "🔌",
+    "tags": [
+      "elektronik"
+    ]
+  },
+  {
+    "id": "cable",
+    "name": "Kabel Charging",
+    "category": "electronics",
+    "store": "Toko Elektronik",
+    "price": 25000,
+    "lastUpdated": "2026-08-15",
+    "emoji": "🔋",
+    "tags": [
+      "elektronik"
+    ]
+  },
+  {
+    "id": "earphones",
+    "name": "Earphones",
+    "category": "electronics",
+    "store": "Toko Elektronik",
+    "price": 45000,
+    "lastUpdated": "2026-08-12",
+    "emoji": "🎧",
+    "tags": [
+      "elektronik"
+    ]
+  },
+  {
+    "id": "powerbank",
+    "name": "Power Bank",
+    "category": "electronics",
+    "store": "Toko Elektronik",
+    "price": 150000,
+    "lastUpdated": "2026-08-10",
+    "emoji": "🔋",
+    "tags": [
+      "elektronik"
+    ]
+  },
+  {
+    "id": "batteries",
+    "name": "Baterai",
+    "category": "electronics",
+    "store": "Indomaret",
+    "price": 15000,
+    "lastUpdated": "2026-08-20",
+    "emoji": "🔋",
+    "tags": [
+      "elektronik"
+    ]
+  },
+  {
+    "id": "sanitary",
+    "name": "Pembalut / Keperluan Wanita",
+    "category": "personal",
+    "store": "Indomaret / Apotek",
+    "price": 20000,
+    "lastUpdated": "2026-08-22",
+    "emoji": "🩹",
+    "tags": [
+      "pribadi"
+    ]
+  },
+  {
+    "id": "hand-sanitizer",
+    "name": "Hand Sanitizer",
+    "category": "personal",
+    "store": "Indomaret",
+    "price": 15000,
+    "lastUpdated": "2026-08-20",
+    "emoji": "🧴",
+    "tags": [
+      "kebersihan"
+    ]
+  },
+  {
+    "id": "mask",
+    "name": "Masker",
+    "category": "personal",
+    "store": "Indomaret",
+    "price": 10000,
+    "lastUpdated": "2026-08-18",
+    "emoji": "😷",
+    "tags": [
+      "kebersihan"
+    ]
+  },
+  {
+    "id": "vitamins",
+    "name": "Vitamin (umum)",
+    "category": "personal",
+    "store": "Apotek",
+    "price": 35000,
+    "lastUpdated": "2026-08-15",
+    "emoji": "💊",
+    "tags": [
+      "pribadi"
+    ]
+  },
+  {
+    "id": "basreng-pedas",
+    "name": "Basreng Pedas Level 5",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 12000,
+    "lastUpdated": "2026-08-20",
+    "emoji": "🌶️",
+    "tags": [
+      "kering",
+      "pedas",
+      "snack",
+      "tahan-lama"
+    ]
+  },
+  {
+    "id": "makaroni-pedas",
+    "name": "Makaroni Pedas",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 10000,
+    "lastUpdated": "2026-08-18",
+    "emoji": "🍝",
+    "tags": [
+      "kering",
+      "pedas",
+      "snack",
+      "tahan-lama"
+    ]
+  },
+  {
+    "id": "keripik-singkong",
+    "name": "Keripik Singkong",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 10000,
+    "lastUpdated": "2026-08-15",
+    "emoji": "🍠",
+    "tags": [
+      "kering",
+      "snack",
+      "tahan-lama"
+    ]
+  },
+  {
+    "id": "keripik-usus",
+    "name": "Keripik Usus",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 15000,
+    "lastUpdated": "2026-08-18",
+    "emoji": "🔥",
+    "tags": [
+      "kering",
+      "pedas",
+      "snack",
+      "tahan-lama"
+    ]
+  },
+  {
+    "id": "cilok",
+    "name": "Cilok",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 8000,
+    "lastUpdated": "2026-08-15",
+    "emoji": "⚪",
+    "tags": [
+      "basah",
+      "segar",
+      "snack"
+    ]
+  },
+  {
+    "id": "cimol",
+    "name": "Cimol",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 8000,
+    "lastUpdated": "2026-08-15",
+    "emoji": "🟡",
+    "tags": [
+      "basah",
+      "segar",
+      "snack"
+    ]
+  },
+  {
+    "id": "kripik-balado",
+    "name": "Kripik Balado",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 12000,
+    "lastUpdated": "2026-08-20",
+    "emoji": "🌶️",
+    "tags": [
+      "kering",
+      "pedas",
+      "tahan-lama"
+    ]
+  },
+  {
+    "id": "permnen-yupi",
+    "name": "Yupi (Permen)",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 5000,
+    "lastUpdated": "2026-08-12",
+    "emoji": "🍬",
+    "tags": [
+      "kering",
+      "manis",
+      "tahan-lama"
+    ]
+  },
+  {
+    "id": "chocochips",
+    "name": "Choco Chips",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 10000,
+    "lastUpdated": "2026-08-15",
+    "emoji": "🍫",
+    "tags": [
+      "cokelat",
+      "manis"
+    ]
+  },
+  {
+    "id": "bengbeng",
+    "name": "Beng-Beng",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 3000,
+    "lastUpdated": "2026-08-20",
+    "emoji": "🍫",
+    "tags": [
+      "kering",
+      "manis",
+      "tahan-lama"
+    ]
+  },
+  {
+    "id": "better",
+    "name": "Better",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 2000,
+    "lastUpdated": "2026-08-15",
+    "emoji": "🍪",
+    "tags": [
+      "kering",
+      "manis",
+      "tahan-lama"
+    ]
+  },
+  {
+    "id": "nextar",
+    "name": "Nextar",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 2000,
+    "lastUpdated": "2026-08-15",
+    "emoji": "🍪",
+    "tags": [
+      "kering",
+      "manis",
+      "tahan-lama"
+    ]
+  },
+  {
+    "id": "oreo",
+    "name": "Oreo",
+    "category": "jajanan",
+    "store": "Agen / Indomaret",
+    "price": 10000,
+    "lastUpdated": "2026-08-22",
+    "emoji": "🍪",
+    "tags": [
+      "kering",
+      "manis",
+      "tahan-lama"
+    ]
+  },
+  {
+    "id": "chitato",
+    "name": "Chitato",
+    "category": "jajanan",
+    "store": "Indomaret",
+    "price": 12000,
+    "lastUpdated": "2026-08-22",
+    "emoji": "🥔",
+    "tags": [
+      "kering",
+      "snack",
+      "tahan-lama"
+    ]
+  },
+  {
+    "id": "qtela",
+    "name": "Qtela",
+    "category": "jajanan",
+    "store": "Indomaret",
+    "price": 10000,
+    "lastUpdated": "2026-08-20",
+    "emoji": "🍠",
+    "tags": [
+      "kering",
+      "snack",
+      "tahan-lama"
+    ]
+  },
+  {
+    "id": "tango-wafer",
+    "name": "Tango Wafer",
+    "category": "jajanan",
+    "store": "Agen",
+    "price": 8000,
+    "lastUpdated": "2026-08-15",
+    "emoji": "🍪",
+    "tags": [
+      "kering",
+      "manis",
+      "tahan-lama"
+    ]
+  },
+  {
+    "id": "good-time",
+    "name": "Good Time Cookies",
+    "category": "jajanan",
+    "store": "Indomaret",
+    "price": 12000,
+    "lastUpdated": "2026-08-20",
+    "emoji": "🍪",
+    "tags": [
+      "kering",
+      "manis",
+      "tahan-lama"
+    ]
+  },
+  {
+    "id": "sosis-solo",
+    "name": "Sosis Solo / Gorengan",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 5000,
+    "lastUpdated": "2026-08-18",
+    "emoji": "🌭",
+    "tags": [
+      "snack"
+    ]
+  },
+  {
+    "id": "risol",
+    "name": "Risol",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 5000,
+    "lastUpdated": "2026-08-18",
+    "emoji": "🥟",
+    "tags": [
+      "basah",
+      "segar",
+      "snack"
+    ]
+  },
+  {
+    "id": "pastel",
+    "name": "Pastel",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 5000,
+    "lastUpdated": "2026-08-18",
+    "emoji": "🥟",
+    "tags": [
+      "basah",
+      "segar",
+      "snack"
+    ]
+  },
+  {
+    "id": "popcorn",
+    "name": "Popcorn",
+    "category": "jajanan",
+    "store": "Agen",
+    "price": 10000,
+    "lastUpdated": "2026-08-15",
+    "emoji": "🍿",
+    "tags": [
+      "snack"
+    ]
+  },
+  {
+    "id": "kue-kering",
+    "name": "Kue Kering / Cookies Toples",
+    "category": "jajanan",
+    "store": "Agen",
+    "price": 35000,
+    "lastUpdated": "2026-08-10",
+    "emoji": "🍪",
+    "tags": [
+      "bulk",
+      "manis"
+    ]
+  },
+  {
+    "id": "nutrisari",
+    "name": "Nutrisari Sachet",
+    "category": "jajanan",
+    "store": "Agen / Indomaret",
+    "price": 2000,
+    "lastUpdated": "2026-08-20",
+    "emoji": "🍊",
+    "tags": [
+      "minuman"
+    ]
+  },
+  {
+    "id": "pop-ice",
+    "name": "Pop Ice",
+    "category": "jajanan",
+    "store": "Agen",
+    "price": 3000,
+    "lastUpdated": "2026-08-18",
+    "emoji": "🥤",
+    "tags": [
+      "minuman"
+    ]
+  },
+  {
+    "id": "teh-sachet",
+    "name": "Teh Sachet / Teh Kotak",
+    "category": "jajanan",
+    "store": "Agen / Indomaret",
+    "price": 4000,
+    "lastUpdated": "2026-08-20",
+    "emoji": "🍵",
+    "tags": [
+      "minuman"
+    ]
+  },
+  {
+    "id": "roti-sari-roti",
+    "name": "Sari Roti",
+    "category": "indomaret",
+    "store": "Indomaret",
+    "price": 8000,
+    "lastUpdated": "2026-08-25",
+    "emoji": "🍞",
+    "tags": [
+      "makanan"
+    ]
+  },
+  {
+    "id": "susu-indomilk",
+    "name": "Susu Indomilk",
+    "category": "indomaret",
+    "store": "Indomaret",
+    "price": 7000,
+    "lastUpdated": "2026-08-25",
+    "emoji": "🥛",
+    "tags": [
+      "minuman"
+    ]
+  },
+  {
+    "id": "susu-ultra",
+    "name": "Susu Ultra Milk",
+    "category": "indomaret",
+    "store": "Indomaret",
+    "price": 8000,
+    "lastUpdated": "2026-08-25",
+    "emoji": "🥛",
+    "tags": [
+      "minuman"
+    ]
+  },
+  {
+    "id": "yakult",
+    "name": "Yakult",
+    "category": "indomaret",
+    "store": "Indomaret",
+    "price": 10000,
+    "lastUpdated": "2026-08-25",
+    "emoji": "🍶",
+    "tags": [
+      "minuman"
+    ]
+  },
+  {
+    "id": "indomie",
+    "name": "Indomie (mie instan)",
+    "category": "indomaret",
+    "store": "Indomaret",
+    "price": 3500,
+    "lastUpdated": "2026-08-25",
+    "emoji": "🍜",
+    "tags": [
+      "makanan"
+    ]
+  },
+  {
+    "id": "pop-mie",
+    "name": "Pop Mie",
+    "category": "indomaret",
+    "store": "Indomaret",
+    "price": 6000,
+    "lastUpdated": "2026-08-25",
+    "emoji": "🍜",
+    "tags": [
+      "makanan"
+    ]
+  },
+  {
+    "id": "sarden",
+    "name": "Sarden Kaleng",
+    "category": "indomaret",
+    "store": "Indomaret",
+    "price": 12000,
+    "lastUpdated": "2026-08-20",
+    "emoji": "🐟",
+    "tags": [
+      "makanan"
+    ]
+  },
+  {
+    "id": "kecap",
+    "name": "Kecap / Saus",
+    "category": "indomaret",
+    "store": "Indomaret",
+    "price": 10000,
+    "lastUpdated": "2026-08-18",
+    "emoji": "🫙",
+    "tags": [
+      "bumbu"
+    ]
+  },
+  {
+    "id": "minyak-goreng-kecil",
+    "name": "Minyak Goreng Sachet",
+    "category": "indomaret",
+    "store": "Indomaret",
+    "price": 5000,
+    "lastUpdated": "2026-08-18",
+    "emoji": "🫒",
+    "tags": [
+      "bumbu"
+    ]
+  },
+  {
+    "id": "tisu-basah",
+    "name": "Tisu Basah",
+    "category": "indomaret",
+    "store": "Indomaret",
+    "price": 10000,
+    "lastUpdated": "2026-08-22",
+    "emoji": "🧻",
+    "tags": [
+      "kebersihan"
+    ]
+  },
+  {
+    "id": "sabun-cuci-piring",
+    "name": "Sabun Cuci Piring",
+    "category": "indomaret",
+    "store": "Indomaret",
+    "price": 8000,
+    "lastUpdated": "2026-08-20",
+    "emoji": "🫧",
+    "tags": [
+      "kebersihan"
+    ]
+  },
+  {
+    "id": "deterjen",
+    "name": "Deterjen Sachet",
+    "category": "indomaret",
+    "store": "Indomaret",
+    "price": 3000,
+    "lastUpdated": "2026-08-20",
+    "emoji": "🧺",
+    "tags": [
+      "kebersihan"
+    ]
+  },
+  {
+    "id": "pewangi",
+    "name": "Pewangi Pakaian",
+    "category": "indomaret",
+    "store": "Indomaret",
+    "price": 5000,
+    "lastUpdated": "2026-08-18",
+    "emoji": "🌸",
+    "tags": [
+      "kebersihan"
+    ]
+  },
+  {
+    "id": "sikat-gigi-indomaret",
+    "name": "Sikat Gigi (Indomaret)",
+    "category": "indomaret",
+    "store": "Indomaret",
+    "price": 8000,
+    "lastUpdated": "2026-08-22",
+    "emoji": "🪥",
+    "tags": [
+      "toiletries"
+    ]
+  },
+  {
+    "id": "cotton-bud",
+    "name": "Cotton Bud",
+    "category": "indomaret",
+    "store": "Indomaret",
+    "price": 8000,
+    "lastUpdated": "2026-08-20",
+    "emoji": "🧽",
+    "tags": [
+      "toiletries"
+    ]
+  },
+  {
+    "id": "kapas",
+    "name": "Kapas / Cotton Pad",
+    "category": "indomaret",
+    "store": "Indomaret",
+    "price": 10000,
+    "lastUpdated": "2026-08-20",
+    "emoji": "🤍",
+    "tags": [
+      "toiletries"
+    ]
+  },
+  {
+    "id": "air-mineral",
+    "name": "Air Mineral Botol",
+    "category": "indomaret",
+    "store": "Indomaret",
+    "price": 4000,
+    "lastUpdated": "2026-08-25",
+    "emoji": "💧",
+    "tags": [
+      "minuman"
+    ]
+  },
+  {
+    "id": "pocari",
+    "name": "Pocari Sweat",
+    "category": "indomaret",
+    "store": "Indomaret",
+    "price": 8000,
+    "lastUpdated": "2026-08-25",
+    "emoji": "💧",
+    "tags": [
+      "minuman"
+    ]
+  },
+  {
+    "id": "teh-botol",
+    "name": "Teh Botol",
+    "category": "indomaret",
+    "store": "Indomaret",
+    "price": 5000,
+    "lastUpdated": "2026-08-25",
+    "emoji": "🍵",
+    "tags": [
+      "minuman"
+    ]
+  },
+  {
+    "id": "milo",
+    "name": "Milo / Coklat Bubuk",
+    "category": "indomaret",
+    "store": "Indomaret",
+    "price": 15000,
+    "lastUpdated": "2026-08-20",
+    "emoji": "☕",
+    "tags": [
+      "minuman"
+    ]
+  },
+  {
+    "id": "ayam-geprek",
+    "name": "Ayam Geprek",
+    "category": "makanan",
+    "store": "Restoran / Delivery",
+    "price": 20000,
+    "lastUpdated": "2026-08-20",
+    "emoji": "🍗",
+    "tags": [
+      "basah",
+      "makanan",
+      "segar"
+    ]
+  },
+  {
+    "id": "nasi-padang",
+    "name": "Nasi Padang",
+    "category": "makanan",
+    "store": "Warung",
+    "price": 25000,
+    "lastUpdated": "2026-08-18",
+    "emoji": "🍛",
+    "tags": [
+      "basah",
+      "makanan",
+      "segar"
+    ]
+  },
+  {
+    "id": "sate",
+    "name": "Sate",
+    "category": "makanan",
+    "store": "Warung",
+    "price": 30000,
+    "lastUpdated": "2026-08-18",
+    "emoji": "🍢",
+    "tags": [
+      "makanan"
+    ]
+  },
+  {
+    "id": "bakso",
+    "name": "Bakso",
+    "category": "makanan",
+    "store": "Warung",
+    "price": 15000,
+    "lastUpdated": "2026-08-20",
+    "emoji": "🍲",
+    "tags": [
+      "basah",
+      "makanan",
+      "segar"
+    ]
+  },
+  {
+    "id": "mie-ayam",
+    "name": "Mie Ayam",
+    "category": "makanan",
+    "store": "Warung",
+    "price": 15000,
+    "lastUpdated": "2026-08-20",
+    "emoji": "🍜",
+    "tags": [
+      "basah",
+      "makanan",
+      "segar"
+    ]
+  },
+  {
+    "id": "seblak",
+    "name": "Seblak",
+    "category": "makanan",
+    "store": "Warung",
+    "price": 15000,
+    "lastUpdated": "2026-08-20",
+    "emoji": "🔥",
+    "tags": [
+      "makanan",
+      "pedas"
+    ]
+  },
+  {
+    "id": "dimsum",
+    "name": "Dimsum",
+    "category": "makanan",
+    "store": "Restoran / Delivery",
+    "price": 25000,
+    "lastUpdated": "2026-08-18",
+    "emoji": "🥟",
+    "tags": [
+      "basah",
+      "makanan",
+      "segar"
+    ]
+  },
+  {
+    "id": "croissant",
+    "name": "Croissant",
+    "category": "makanan",
+    "store": "Toko Roti",
+    "price": 15000,
+    "lastUpdated": "2026-08-15",
+    "emoji": "🥐",
+    "tags": [
+      "basah",
+      "manis",
+      "segar"
+    ]
+  },
+  {
+    "id": "brownies",
+    "name": "Brownies",
+    "category": "makanan",
+    "store": "Toko Roti",
+    "price": 20000,
+    "lastUpdated": "2026-08-15",
+    "emoji": "🍫",
+    "tags": [
+      "basah",
+      "manis",
+      "segar"
+    ]
+  },
+  {
+    "id": "pisang-goreng",
+    "name": "Pisang Goreng",
+    "category": "makanan",
+    "store": "Warung",
+    "price": 10000,
+    "lastUpdated": "2026-08-18",
+    "emoji": "🍌",
+    "tags": [
+      "snack"
+    ]
+  },
+  {
+    "id": "tahu-gejrot",
+    "name": "Tahu Gejrot / Tahu Crispy",
+    "category": "makanan",
+    "store": "Warung",
+    "price": 10000,
+    "lastUpdated": "2026-08-18",
+    "emoji": "🧈",
+    "tags": [
+      "snack"
+    ]
+  },
+  {
+    "id": "pempek",
+    "name": "Pempek",
+    "category": "makanan",
+    "store": "Warung",
+    "price": 20000,
+    "lastUpdated": "2026-08-15",
+    "emoji": "🐟",
+    "tags": [
+      "basah",
+      "makanan",
+      "segar"
+    ]
+  },
+  {
+    "id": "siomay",
+    "name": "Siomay",
+    "category": "makanan",
+    "store": "Warung",
+    "price": 15000,
+    "lastUpdated": "2026-08-18",
+    "emoji": "🥟",
+    "tags": [
+      "basah",
+      "makanan",
+      "segar"
+    ]
+  },
+  {
+    "id": "sabun-lifebuoy",
+    "name": "Sabun Lifebuoy / Lux",
+    "category": "toiletries",
+    "store": "Indomaret",
+    "price": 6000,
+    "lastUpdated": "2026-08-22",
+    "emoji": "🧼",
+    "tags": [
+      "toiletries"
+    ]
+  },
+  {
+    "id": "shampoo-sunsilk",
+    "name": "Shampoo Sunsilk / Pantene",
+    "category": "toiletries",
+    "store": "Indomaret",
+    "price": 18000,
+    "lastUpdated": "2026-08-22",
+    "emoji": "🧴",
+    "tags": [
+      "rambut"
+    ]
+  },
+  {
+    "id": "conditioner-pantene",
+    "name": "Conditioner Pantene",
+    "category": "toiletries",
+    "store": "Indomaret",
+    "price": 20000,
+    "lastUpdated": "2026-08-22",
+    "emoji": "🧴",
+    "tags": [
+      "rambut"
+    ]
+  },
+  {
+    "id": "pasta-pepsodent",
+    "name": "Pasta Gigi Pepsodent",
+    "category": "toiletries",
+    "store": "Indomaret",
+    "price": 12000,
+    "lastUpdated": "2026-08-22",
+    "emoji": "🪥",
+    "tags": [
+      "toiletries"
+    ]
+  },
+  {
+    "id": "odol-sachet",
+    "name": "Odol Sachet",
+    "category": "toiletries",
+    "store": "Indomaret / Agen",
+    "price": 2000,
+    "lastUpdated": "2026-08-20",
+    "emoji": "🪥",
+    "tags": [
+      "toiletries"
+    ]
+  },
+  {
+    "id": "facial-wash",
+    "name": "Facial Wash",
+    "category": "toiletries",
+    "store": "Indomaret / Apotek",
+    "price": 28000,
+    "lastUpdated": "2026-08-22",
+    "emoji": "✨",
+    "tags": [
+      "skincare"
+    ]
+  },
+  {
+    "id": "moisturizer",
+    "name": "Moisturizer / Pelembab",
+    "category": "toiletries",
+    "store": "Apotek / Indomaret",
+    "price": 35000,
+    "lastUpdated": "2026-08-20",
+    "emoji": "💧",
+    "tags": [
+      "skincare"
+    ]
+  },
+  {
+    "id": "sunscreen",
+    "name": "Sunscreen",
+    "category": "toiletries",
+    "store": "Apotek",
+    "price": 45000,
+    "lastUpdated": "2026-08-18",
+    "emoji": "☀️",
+    "tags": [
+      "skincare"
+    ]
+  },
+  {
+    "id": "lip-balm",
+    "name": "Lip Balm",
+    "category": "toiletries",
+    "store": "Indomaret",
+    "price": 15000,
+    "lastUpdated": "2026-08-20",
+    "emoji": "💄",
+    "tags": [
+      "skincare"
+    ]
+  },
+  {
+    "id": "body-lotion",
+    "name": "Body Lotion",
+    "category": "toiletries",
+    "store": "Indomaret",
+    "price": 25000,
+    "lastUpdated": "2026-08-20",
+    "emoji": "🧴",
+    "tags": [
+      "skincare"
+    ]
+  },
+  {
+    "id": "parfum",
+    "name": "Parfum / Body Mist",
+    "category": "toiletries",
+    "store": "Toko",
+    "price": 50000,
+    "lastUpdated": "2026-08-15",
+    "emoji": "🌸",
+    "tags": [
+      "toiletries"
+    ]
+  },
+  {
+    "id": "handbody",
+    "name": "Handbody",
+    "category": "toiletries",
+    "store": "Indomaret",
+    "price": 20000,
+    "lastUpdated": "2026-08-20",
+    "emoji": "🧴",
+    "tags": [
+      "skincare"
+    ]
+  },
+  {
+    "id": "pulpen-standar",
+    "name": "Pulpen Standar AE7 / Joyko",
+    "category": "atk",
+    "store": "Toko ATK",
+    "price": 3000,
+    "lastUpdated": "2026-08-15",
+    "emoji": "🖊️",
+    "tags": [
+      "alat tulis"
+    ]
+  },
+  {
+    "id": "pulpen-gel",
+    "name": "Pulpen Gel",
+    "category": "atk",
+    "store": "Toko ATK",
+    "price": 5000,
+    "lastUpdated": "2026-08-15",
+    "emoji": "🖊️",
+    "tags": [
+      "alat tulis"
+    ]
+  },
+  {
+    "id": "pensil-2b",
+    "name": "Pensil 2B",
+    "category": "atk",
+    "store": "Toko ATK",
+    "price": 3000,
+    "lastUpdated": "2026-08-15",
+    "emoji": "✏️",
+    "tags": [
+      "alat tulis"
+    ]
+  },
+  {
+    "id": "penghapus-putih",
+    "name": "Penghapus Putih",
+    "category": "atk",
+    "store": "Toko ATK",
+    "price": 2000,
+    "lastUpdated": "2026-08-15",
+    "emoji": "🧹",
+    "tags": [
+      "alat tulis"
+    ]
+  },
+  {
+    "id": "tipex",
+    "name": "Tipex / Correction Fluid",
+    "category": "atk",
+    "store": "Toko ATK",
+    "price": 5000,
+    "lastUpdated": "2026-08-15",
+    "emoji": "🤍",
+    "tags": [
+      "alat tulis"
+    ]
+  },
+  {
+    "id": "buku-tulis-isi",
+    "name": "Buku Tulis 38/58 lembar",
+    "category": "atk",
+    "store": "Toko ATK",
+    "price": 5000,
+    "lastUpdated": "2026-08-18",
+    "emoji": "📓",
+    "tags": [
+      "alat tulis"
+    ]
+  },
+  {
+    "id": "buku-gambar",
+    "name": "Buku Gambar",
+    "category": "atk",
+    "store": "Toko ATK",
+    "price": 8000,
+    "lastUpdated": "2026-08-15",
+    "emoji": "🎨",
+    "tags": [
+      "alat tulis"
+    ]
+  },
+  {
+    "id": "spidol",
+    "name": "Spidol / Board Marker",
+    "category": "atk",
+    "store": "Toko ATK",
+    "price": 7000,
+    "lastUpdated": "2026-08-15",
+    "emoji": "🖋️",
+    "tags": [
+      "alat tulis"
+    ]
+  },
+  {
+    "id": "stabilo-set",
+    "name": "Stabilo Set",
+    "category": "atk",
+    "store": "Toko ATK",
+    "price": 25000,
+    "lastUpdated": "2026-08-15",
+    "emoji": "🖍️",
+    "tags": [
+      "alat tulis"
+    ]
+  },
+  {
+    "id": "map-plastic",
+    "name": "Map Plastik",
+    "category": "atk",
+    "store": "Toko ATK",
+    "price": 3000,
+    "lastUpdated": "2026-08-15",
+    "emoji": "📁",
+    "tags": [
+      "alat tulis"
+    ]
+  },
+  {
+    "id": "staples",
+    "name": "Staples + Isi",
+    "category": "atk",
+    "store": "Toko ATK",
+    "price": 8000,
+    "lastUpdated": "2026-08-15",
+    "emoji": "📎",
+    "tags": [
+      "alat tulis"
+    ]
+  },
+  {
+    "id": "gunting",
+    "name": "Gunting",
+    "category": "atk",
+    "store": "Toko ATK",
+    "price": 10000,
+    "lastUpdated": "2026-08-12",
+    "emoji": "✂️",
+    "tags": [
+      "alat tulis"
+    ]
+  },
+  {
+    "id": "lem-kertas",
+    "name": "Lem Kertas / Glue Stick",
+    "category": "atk",
+    "store": "Toko ATK",
+    "price": 5000,
+    "lastUpdated": "2026-08-15",
+    "emoji": "📎",
+    "tags": [
+      "alat tulis"
+    ]
+  },
+  {
+    "id": "kertas-hvs",
+    "name": "Kertas HVS (rim/lembar)",
+    "category": "atk",
+    "store": "Toko ATK",
+    "price": 50000,
+    "lastUpdated": "2026-08-10",
+    "emoji": "📄",
+    "tags": [
+      "alat tulis"
+    ]
+  },
+  {
+    "id": "post-it",
+    "name": "Post-it / Sticky Notes",
+    "category": "atk",
+    "store": "Toko ATK",
+    "price": 10000,
+    "lastUpdated": "2026-08-15",
+    "emoji": "📝",
+    "tags": [
+      "alat tulis"
+    ]
+  },
+  {
+    "id": "kaos-dalam",
+    "name": "Kaos Dalam / Singlet",
+    "category": "pakaian",
+    "store": "Toko Baju",
+    "price": 25000,
+    "lastUpdated": "2026-08-12",
+    "emoji": "👕",
+    "tags": [
+      "pakaian"
+    ]
+  },
+  {
+    "id": "celana-dalam",
+    "name": "Celana Dalam",
+    "category": "pakaian",
+    "store": "Toko Baju",
+    "price": 20000,
+    "lastUpdated": "2026-08-12",
+    "emoji": "🩲",
+    "tags": [
+      "pakaian"
+    ]
+  },
+  {
+    "id": "hijab-segiempat",
+    "name": "Hijab Segiempat",
+    "category": "pakaian",
+    "store": "Toko Baju",
+    "price": 30000,
+    "lastUpdated": "2026-08-15",
+    "emoji": "🧕",
+    "tags": [
+      "pakaian"
+    ]
+  },
+  {
+    "id": "hijab-pashmina",
+    "name": "Pashmina",
+    "category": "pakaian",
+    "store": "Toko Baju",
+    "price": 40000,
+    "lastUpdated": "2026-08-15",
+    "emoji": "🧕",
+    "tags": [
+      "pakaian"
+    ]
+  },
+  {
+    "id": "ciput-inner",
+    "name": "Ciput / Inner Hijab",
+    "category": "pakaian",
+    "store": "Toko Baju",
+    "price": 15000,
+    "lastUpdated": "2026-08-15",
+    "emoji": "🎀",
+    "tags": [
+      "pakaian"
+    ]
+  },
+  {
+    "id": "kaos-kaki-pendek",
+    "name": "Kaos Kaki Pendek",
+    "category": "pakaian",
+    "store": "Toko Baju",
+    "price": 12000,
+    "lastUpdated": "2026-08-12",
+    "emoji": "🧦",
+    "tags": [
+      "pakaian"
+    ]
+  },
+  {
+    "id": "kaos-kaki-panjang",
+    "name": "Kaos Kaki Panjang",
+    "category": "pakaian",
+    "store": "Toko Baju",
+    "price": 18000,
+    "lastUpdated": "2026-08-12",
+    "emoji": "🧦",
+    "tags": [
+      "pakaian"
+    ]
+  },
+  {
+    "id": "handuk",
+    "name": "Handuk",
+    "category": "pakaian",
+    "store": "Toko",
+    "price": 45000,
+    "lastUpdated": "2026-08-10",
+    "emoji": "🛁",
+    "tags": [
+      "pakaian"
+    ]
+  },
+  {
+    "id": "mukena-travel",
+    "name": "Mukena Travel",
+    "category": "pakaian",
+    "store": "Toko Baju",
+    "price": 65000,
+    "lastUpdated": "2026-08-10",
+    "emoji": "🕌",
+    "tags": [
+      "ibadah",
+      "pakaian"
+    ]
+  },
+  {
+    "id": "gamis",
+    "name": "Gamis / Dress",
+    "category": "pakaian",
+    "store": "Toko Baju",
+    "price": 120000,
+    "lastUpdated": "2026-08-08",
+    "emoji": "👗",
+    "tags": [
+      "pakaian"
+    ]
+  },
+  {
+    "id": "sarung-mukenah-set",
+    "name": "Set Sarung + Mukena",
+    "category": "pondok",
+    "store": "Toko",
+    "price": 100000,
+    "lastUpdated": "2026-08-10",
+    "emoji": "🕌",
+    "tags": [
+      "ibadah"
+    ]
+  },
+  {
+    "id": "tasbih",
+    "name": "Tasbih",
+    "category": "pondok",
+    "store": "Toko",
+    "price": 15000,
+    "lastUpdated": "2026-08-12",
+    "emoji": "📿",
+    "tags": [
+      "ibadah"
+    ]
+  },
+  {
+    "id": "buku-doa",
+    "name": "Buku Doa / Wirid",
+    "category": "pondok",
+    "store": "Toko Buku",
+    "price": 25000,
+    "lastUpdated": "2026-08-10",
+    "emoji": "📖",
+    "tags": [
+      "ibadah"
+    ]
+  },
+  {
+    "id": "al-quran-terjemah",
+    "name": "Al-Qur'an + Terjemah",
+    "category": "pondok",
+    "store": "Toko Buku",
+    "price": 95000,
+    "lastUpdated": "2026-08-05",
+    "emoji": "📖",
+    "tags": [
+      "ibadah"
+    ]
+  },
+  {
+    "id": "tas-sekolah",
+    "name": "Tas Sekolah / Backpack",
+    "category": "pondok",
+    "store": "Toko",
+    "price": 85000,
+    "lastUpdated": "2026-08-12",
+    "emoji": "🎒",
+    "tags": [
+      "keperluan"
+    ]
+  },
+  {
+    "id": "sandal-jepit",
+    "name": "Sandal Jepit",
+    "category": "pondok",
+    "store": "Toko",
+    "price": 25000,
+    "lastUpdated": "2026-08-15",
+    "emoji": "🩴",
+    "tags": [
+      "keperluan"
+    ]
+  },
+  {
+    "id": "sandal-murah",
+    "name": "Sandal Rumah",
+    "category": "pondok",
+    "store": "Toko",
+    "price": 20000,
+    "lastUpdated": "2026-08-15",
+    "emoji": "🩴",
+    "tags": [
+      "keperluan"
+    ]
+  },
+  {
+    "id": "keranjang-laundry",
+    "name": "Keranjang / Laundry Bag",
+    "category": "pondok",
+    "store": "Toko",
+    "price": 30000,
+    "lastUpdated": "2026-08-15",
+    "emoji": "🧺",
+    "tags": [
+      "keperluan"
+    ]
+  },
+  {
+    "id": "hanger-baju",
+    "name": "Hanger Baju (set)",
+    "category": "pondok",
+    "store": "Toko",
+    "price": 20000,
+    "lastUpdated": "2026-08-12",
+    "emoji": "👔",
+    "tags": [
+      "keperluan"
+    ]
+  },
+  {
+    "id": "botol-minum-tahan",
+    "name": "Botol Minum Tahan Panas",
+    "category": "pondok",
+    "store": "Toko",
+    "price": 45000,
+    "lastUpdated": "2026-08-18",
+    "emoji": "🍶",
+    "tags": [
+      "keperluan"
+    ]
+  },
+  {
+    "id": "payung",
+    "name": "Payung / Jas Hujan",
+    "category": "pondok",
+    "store": "Toko",
+    "price": 35000,
+    "lastUpdated": "2026-08-12",
+    "emoji": "☂️",
+    "tags": [
+      "keperluan"
+    ]
+  },
+  {
+    "id": "keset",
+    "name": "Keset / Sajadah Kecil",
+    "category": "pondok",
+    "store": "Toko",
+    "price": 25000,
+    "lastUpdated": "2026-08-10",
+    "emoji": "🕌",
+    "tags": [
+      "keperluan"
+    ]
+  },
+  {
+    "id": "charger-typec",
+    "name": "Charger Type-C",
+    "category": "electronics",
+    "store": "Toko Elektronik",
+    "price": 55000,
+    "lastUpdated": "2026-08-15",
+    "emoji": "🔌",
+    "tags": [
+      "elektronik"
+    ]
+  },
+  {
+    "id": "charger-lightning",
+    "name": "Charger iPhone / Lightning",
+    "category": "electronics",
+    "store": "Toko Elektronik",
+    "price": 60000,
+    "lastUpdated": "2026-08-15",
+    "emoji": "🔌",
+    "tags": [
+      "elektronik"
+    ]
+  },
+  {
+    "id": "kabel-data",
+    "name": "Kabel Data",
+    "category": "electronics",
+    "store": "Toko Elektronik",
+    "price": 25000,
+    "lastUpdated": "2026-08-15",
+    "emoji": "🔋",
+    "tags": [
+      "elektronik"
+    ]
+  },
+  {
+    "id": "earphone-wired",
+    "name": "Earphone Kabel",
+    "category": "electronics",
+    "store": "Toko Elektronik",
+    "price": 35000,
+    "lastUpdated": "2026-08-12",
+    "emoji": "🎧",
+    "tags": [
+      "elektronik"
+    ]
+  },
+  {
+    "id": "headset",
+    "name": "Headset",
+    "category": "electronics",
+    "store": "Toko Elektronik",
+    "price": 75000,
+    "lastUpdated": "2026-08-12",
+    "emoji": "🎧",
+    "tags": [
+      "elektronik"
+    ]
+  },
+  {
+    "id": "powerbank-10000",
+    "name": "Power Bank 10.000mAh",
+    "category": "electronics",
+    "store": "Toko Elektronik",
+    "price": 150000,
+    "lastUpdated": "2026-08-10",
+    "emoji": "🔋",
+    "tags": [
+      "elektronik"
+    ]
+  },
+  {
+    "id": "baterai-aa",
+    "name": "Baterai AA / AAA",
+    "category": "electronics",
+    "store": "Indomaret",
+    "price": 15000,
+    "lastUpdated": "2026-08-20",
+    "emoji": "🔋",
+    "tags": [
+      "elektronik"
+    ]
+  },
+  {
+    "id": "flashdisk",
+    "name": "Flashdisk",
+    "category": "electronics",
+    "store": "Toko Elektronik",
+    "price": 50000,
+    "lastUpdated": "2026-08-12",
+    "emoji": "💾",
+    "tags": [
+      "elektronik"
+    ]
+  },
+  {
+    "id": "pembalut",
+    "name": "Pembalut",
+    "category": "personal",
+    "store": "Indomaret / Apotek",
+    "price": 18000,
+    "lastUpdated": "2026-08-22",
+    "emoji": "🩹",
+    "tags": [
+      "pribadi"
+    ]
+  },
+  {
+    "id": "pantyliner",
+    "name": "Pantyliner",
+    "category": "personal",
+    "store": "Indomaret",
+    "price": 12000,
+    "lastUpdated": "2026-08-22",
+    "emoji": "🩹",
+    "tags": [
+      "pribadi"
+    ]
+  },
+  {
+    "id": "hand-sanitizer-botol",
+    "name": "Hand Sanitizer Botol",
+    "category": "personal",
+    "store": "Indomaret",
+    "price": 15000,
+    "lastUpdated": "2026-08-20",
+    "emoji": "🧴",
+    "tags": [
+      "kebersihan"
+    ]
+  },
+  {
+    "id": "masker-medis",
+    "name": "Masker Medis (box)",
+    "category": "personal",
+    "store": "Indomaret",
+    "price": 20000,
+    "lastUpdated": "2026-08-18",
+    "emoji": "😷",
+    "tags": [
+      "kebersihan"
+    ]
+  },
+  {
+    "id": "vitamin-c",
+    "name": "Vitamin C (umum)",
+    "category": "personal",
+    "store": "Apotek",
+    "price": 30000,
+    "lastUpdated": "2026-08-15",
+    "emoji": "🍊",
+    "tags": [
+      "pribadi"
+    ]
+  },
+  {
+    "id": "plaster",
+    "name": "Plester / Band-Aid",
+    "category": "personal",
+    "store": "Indomaret / Apotek",
+    "price": 8000,
+    "lastUpdated": "2026-08-18",
+    "emoji": "🩹",
+    "tags": [
+      "pribadi"
+    ]
+  },
+  {
+    "id": "minyak-kayu-putih",
+    "name": "Minyak Kayu Putih / Balm",
+    "category": "personal",
+    "store": "Indomaret / Apotek",
+    "price": 15000,
+    "lastUpdated": "2026-08-15",
+    "emoji": "🌿",
+    "tags": [
+      "pribadi"
+    ]
+  },
+  {
+    "id": "tissue-basah-pribadi",
+    "name": "Tissue Basah Pribadi",
+    "category": "personal",
+    "store": "Indomaret",
+    "price": 10000,
+    "lastUpdated": "2026-08-20",
+    "emoji": "🧻",
+    "tags": [
+      "kebersihan"
+    ]
+  },
+  {
+    "id": "chocolatos",
+    "name": "Chocolatos",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 10000,
+    "emoji": "🍫",
+    "tags": [
+      "cokelat",
+      "kering",
+      "manis",
+      "snack",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "choki-choki",
+    "name": "Choki-Choki",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 5000,
+    "emoji": "🍫",
+    "tags": [
+      "cokelat",
+      "kering",
+      "manis",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "nabati",
+    "name": "Nabati Wafer",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 8000,
+    "emoji": "🍪",
+    "tags": [
+      "kering",
+      "manis",
+      "tahan-lama",
+      "wafer"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "roma-kelapa",
+    "name": "Roma Kelapa",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 7000,
+    "emoji": "🥥",
+    "tags": [
+      "biskuit",
+      "kering",
+      "manis",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "astor",
+    "name": "Astor",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 9000,
+    "emoji": "🍫",
+    "tags": [
+      "cokelat",
+      "manis"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "pocky",
+    "name": "Pocky",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 12000,
+    "emoji": "🍫",
+    "tags": [
+      "cokelat",
+      "kering",
+      "manis",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "momogi",
+    "name": "Momogi",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 5000,
+    "emoji": "🌽",
+    "tags": [
+      "kering",
+      "snack",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "taro",
+    "name": "Taro",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 8000,
+    "emoji": "🥔",
+    "tags": [
+      "kering",
+      "snack",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "piattos",
+    "name": "Piattos",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 10000,
+    "emoji": "🧀",
+    "tags": [
+      "kering",
+      "snack",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "kusuka",
+    "name": "Kusuka",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 9000,
+    "emoji": "🥜",
+    "tags": [
+      "kering",
+      "snack",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "sukro",
+    "name": "Sukro",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 7000,
+    "emoji": "🥜",
+    "tags": [
+      "kering",
+      "snack",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "chiki-balls",
+    "name": "Chiki Balls",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 6000,
+    "emoji": "🟡",
+    "tags": [
+      "kering",
+      "snack",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "pilus",
+    "name": "Pilus",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 5000,
+    "emoji": "🟡",
+    "tags": [
+      "kering",
+      "snack",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "tic-tac",
+    "name": "Tic Tac",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 8000,
+    "emoji": "🍬",
+    "tags": [
+      "kering",
+      "manis",
+      "permen",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "jetz",
+    "name": "JetZ",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 7000,
+    "emoji": "🍫",
+    "tags": [
+      "cokelat",
+      "kering",
+      "manis",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "krip-krip",
+    "name": "Krip-Krip",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 8000,
+    "emoji": "🥔",
+    "tags": [
+      "snack"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "garuda-rosta",
+    "name": "Garuda Rosta",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 10000,
+    "emoji": "🥜",
+    "tags": [
+      "kering",
+      "snack",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "teh-kotak",
+    "name": "Teh Kotak",
+    "category": "indomaret",
+    "store": "Indomaret / Minimarket",
+    "price": 5000,
+    "emoji": "🧃",
+    "tags": [
+      "minuman"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "teh-pucuk",
+    "name": "Teh Pucuk Harum",
+    "category": "indomaret",
+    "store": "Indomaret / Minimarket",
+    "price": 5000,
+    "emoji": "🍵",
+    "tags": [
+      "minuman"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "milo-uht",
+    "name": "Milo UHT",
+    "category": "indomaret",
+    "store": "Indomaret / Minimarket",
+    "price": 8000,
+    "emoji": "🥛",
+    "tags": [
+      "cokelat",
+      "minuman"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "good-day",
+    "name": "Good Day",
+    "category": "indomaret",
+    "store": "Indomaret / Minimarket",
+    "price": 7000,
+    "emoji": "☕",
+    "tags": [
+      "kopi",
+      "minuman"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "floridina",
+    "name": "Floridina",
+    "category": "indomaret",
+    "store": "Indomaret / Minimarket",
+    "price": 6000,
+    "emoji": "🍊",
+    "tags": [
+      "minuman"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "nu-green-tea",
+    "name": "Nu Green Tea",
+    "category": "indomaret",
+    "store": "Indomaret / Minimarket",
+    "price": 6000,
+    "emoji": "🍵",
+    "tags": [
+      "minuman"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "fruit-tea",
+    "name": "Fruit Tea",
+    "category": "indomaret",
+    "store": "Indomaret / Minimarket",
+    "price": 6000,
+    "emoji": "🍑",
+    "tags": [
+      "minuman"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "nu-milk-tea",
+    "name": "Nu Milk Tea",
+    "category": "indomaret",
+    "store": "Indomaret / Minimarket",
+    "price": 7000,
+    "emoji": "🧋",
+    "tags": [
+      "minuman"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "mie-sedaap-cup",
+    "name": "Mie Sedaap Cup",
+    "category": "indomaret",
+    "store": "Indomaret / Minimarket",
+    "price": 6000,
+    "emoji": "🍜",
+    "tags": [
+      "instan",
+      "mie"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "abon",
+    "name": "Abon",
+    "category": "indomaret",
+    "store": "Indomaret / Minimarket",
+    "price": 15000,
+    "emoji": "🍖",
+    "tags": [
+      "makanan"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "kornet",
+    "name": "Kornet",
+    "category": "indomaret",
+    "store": "Indomaret / Minimarket",
+    "price": 18000,
+    "emoji": "🥩",
+    "tags": [
+      "makanan"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "selai-cokelat",
+    "name": "Selai Cokelat",
+    "category": "indomaret",
+    "store": "Indomaret / Minimarket",
+    "price": 20000,
+    "emoji": "🍫",
+    "tags": [
+      "manis",
+      "selai"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "selai-kacang",
+    "name": "Selai Kacang",
+    "category": "indomaret",
+    "store": "Indomaret / Minimarket",
+    "price": 18000,
+    "emoji": "🥜",
+    "tags": [
+      "kering",
+      "selai",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "biskuit-generic",
+    "name": "Biskuit (berbagai merk)",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 8000,
+    "emoji": "🍪",
+    "tags": [
+      "biskuit",
+      "kering",
+      "manis",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "wafer-generic",
+    "name": "Wafer (berbagai merk)",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 7000,
+    "emoji": "🍪",
+    "tags": [
+      "kering",
+      "manis",
+      "tahan-lama",
+      "wafer"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "permen-generic",
+    "name": "Permen (berbagai merk)",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 5000,
+    "emoji": "🍬",
+    "tags": [
+      "kering",
+      "manis",
+      "permen",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "cokelat-generic",
+    "name": "Cokelat (berbagai merk)",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 12000,
+    "emoji": "🍫",
+    "tags": [
+      "cokelat",
+      "manis"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "chocolatos-stick",
+    "name": "Chocolatos Stick",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 8000,
+    "emoji": "🍫",
+    "tags": [
+      "cokelat",
+      "kering",
+      "manis",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "richeese",
+    "name": "Richeese Nabati",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 9000,
+    "emoji": "🧀",
+    "tags": [
+      "snack"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "lays",
+    "name": "Lay's",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 12000,
+    "emoji": "🥔",
+    "tags": [
+      "snack"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "cheetos",
+    "name": "Cheetos",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 10000,
+    "emoji": "🧀",
+    "tags": [
+      "kering",
+      "snack",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "twistko",
+    "name": "Twistko",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 7000,
+    "emoji": "🌽",
+    "tags": [
+      "snack"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "japota",
+    "name": "Japota",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 8000,
+    "emoji": "🥔",
+    "tags": [
+      "snack"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "shopee-pouch-cute",
+    "name": "Pouch Makeup Lucu",
+    "category": "cute-stuff",
+    "store": "Shopee",
+    "price": 25000,
+    "emoji": "🎀",
+    "tags": [
+      "cute",
+      "pouch"
+    ],
+    "shopeeNote": "sering dicari anak pondok",
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "shopee-hanger-set",
+    "name": "Hanger Baju Set 10pcs",
+    "category": "pondok-essentials",
+    "store": "Shopee",
+    "price": 35000,
+    "emoji": "👔",
+    "tags": [
+      "organizer"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "shopee-laundry-bag",
+    "name": "Laundry Bag Foldable",
+    "category": "pondok-essentials",
+    "store": "Shopee",
+    "price": 28000,
+    "emoji": "🧺",
+    "tags": [
+      "laundry"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "shopee-binder-a5",
+    "name": "Binder A5 Aesthetic",
+    "category": "school-stuff",
+    "store": "Shopee",
+    "price": 45000,
+    "emoji": "📓",
+    "tags": [
+      "stationery"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "shopee-highlighter-set",
+    "name": "Highlighter Soft Pastel Set",
+    "category": "school-stuff",
+    "store": "Shopee",
+    "price": 22000,
+    "emoji": "✏️",
+    "tags": [
+      "basah",
+      "segar",
+      "stationery"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "shopee-kaos-kaki",
+    "name": "Kaos Kaki Invisible 5pcs",
+    "category": "fashion-shopee",
+    "store": "Shopee",
+    "price": 30000,
+    "emoji": "🧦",
+    "tags": [
+      "fashion"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "shopee-inner-hijab",
+    "name": "Inner Hijab / Ciput Jersey",
+    "category": "fashion-shopee",
+    "store": "Shopee",
+    "price": 18000,
+    "emoji": "🧕",
+    "tags": [
+      "hijab"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "shopee-skincare-basic",
+    "name": "Skincare Basic Set (cleanser+moisturizer)",
+    "category": "daily-needs",
+    "store": "Shopee",
+    "price": 55000,
+    "emoji": "🧴",
+    "tags": [
+      "skincare"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "shopee-sabun-body",
+    "name": "Body Wash / Sabun Mandi Favorit",
+    "category": "daily-needs",
+    "store": "Shopee",
+    "price": 25000,
+    "emoji": "🧼",
+    "tags": [
+      "toiletries"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "shopee-organizer",
+    "name": "Desk Organizer Mini",
+    "category": "pondok-essentials",
+    "store": "Shopee",
+    "price": 32000,
+    "emoji": "🗃️",
+    "tags": [
+      "organizer"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "shopee-snack-box",
+    "name": "Snack Box Assorted (import)",
+    "category": "shopee",
+    "store": "Shopee",
+    "price": 45000,
+    "emoji": "🍪",
+    "tags": [
+      "shopee",
+      "snack"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "shopee-sticker-pack",
+    "name": "Sticker Pack Aesthetic",
+    "category": "cute-stuff",
+    "store": "Shopee",
+    "price": 15000,
+    "emoji": "✨",
+    "tags": [
+      "cute"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "shopee-gantungan",
+    "name": "Gantungan Kunci / Charm",
+    "category": "cute-stuff",
+    "store": "Shopee",
+    "price": 12000,
+    "emoji": "🔑",
+    "tags": [
+      "cute"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "shopee-buku-notes",
+    "name": "Notebook Aesthetic Lined",
+    "category": "school-stuff",
+    "store": "Shopee",
+    "price": 28000,
+    "emoji": "📔",
+    "tags": [
+      "stationery"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "shopee-hijab-pashmina",
+    "name": "Pashmina Diamond / Ceruty",
+    "category": "fashion-shopee",
+    "store": "Shopee",
+    "price": 35000,
+    "emoji": "🧣",
+    "tags": [
+      "hijab"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "delfi",
+    "name": "Delfi Chocolate",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 10000,
+    "emoji": "🍫",
+    "tags": [
+      "cokelat",
+      "manis"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "cadbury",
+    "name": "Cadbury",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 15000,
+    "emoji": "🍫",
+    "tags": [
+      "cokelat",
+      "manis"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "kitkat",
+    "name": "KitKat",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 8000,
+    "emoji": "🍫",
+    "tags": [
+      "cokelat",
+      "kering",
+      "manis",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "snickers",
+    "name": "Snickers",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 12000,
+    "emoji": "🍫",
+    "tags": [
+      "cokelat",
+      "manis"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "twix",
+    "name": "Twix",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 10000,
+    "emoji": "🍫",
+    "tags": [
+      "cokelat",
+      "manis"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "mnm",
+    "name": "M&M's",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 15000,
+    "emoji": "🟡",
+    "tags": [
+      "cokelat",
+      "manis"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "toffifee",
+    "name": "Toffifee",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 20000,
+    "emoji": "🍫",
+    "tags": [
+      "cokelat",
+      "manis"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "kinder-joy",
+    "name": "Kinder Joy",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 15000,
+    "emoji": "🥚",
+    "tags": [
+      "cokelat",
+      "manis"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "kinder-bueno",
+    "name": "Kinder Bueno",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 12000,
+    "emoji": "🍫",
+    "tags": [
+      "cokelat",
+      "manis"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "goya",
+    "name": "Goya Chocolate",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 8000,
+    "emoji": "🍫",
+    "tags": [
+      "cokelat",
+      "manis"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "van-houten",
+    "name": "Van Houten",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 10000,
+    "emoji": "🍫",
+    "tags": [
+      "cokelat",
+      "manis"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "chocopie",
+    "name": "Choco Pie",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 15000,
+    "emoji": "🥧",
+    "tags": [
+      "cokelat",
+      "manis"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "lotte-choco",
+    "name": "Lotte Choco Pie",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 12000,
+    "emoji": "🥧",
+    "tags": [
+      "manis"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "roma-sandwich",
+    "name": "Roma Sandwich",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 7000,
+    "emoji": "🍪",
+    "tags": [
+      "biskuit",
+      "kering",
+      "manis",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "roma-kelapa-double",
+    "name": "Roma Kelapa Double",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 8000,
+    "emoji": "🥥",
+    "tags": [
+      "biskuit",
+      "kering",
+      "manis",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "royal-biscuit",
+    "name": "Royal Biscuit",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 6000,
+    "emoji": "🍪",
+    "tags": [
+      "manis"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "khong-guan",
+    "name": "Khong Guan",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 25000,
+    "emoji": "🍪",
+    "tags": [
+      "biskuit",
+      "bulk",
+      "manis"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "biscuits-regal",
+    "name": "Marie Regal",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 12000,
+    "emoji": "🍪",
+    "tags": [
+      "biskuit",
+      "manis"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "monde",
+    "name": "Monde Butter Cookies",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 18000,
+    "emoji": "🍪",
+    "tags": [
+      "manis"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "dutch-mill",
+    "name": "Dutch Mill",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 5000,
+    "emoji": "🥛",
+    "tags": [
+      "manis",
+      "minuman"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "qtela-singkong",
+    "name": "Qtela Singkong",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 9000,
+    "emoji": "🥔",
+    "tags": [
+      "kering",
+      "snack",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "chitato-sapi",
+    "name": "Chitato Rasa Sapi Panggang",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 10000,
+    "emoji": "🥩",
+    "tags": [
+      "kering",
+      "snack",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "chitato-keju",
+    "name": "Chitato Keju",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 10000,
+    "emoji": "🧀",
+    "tags": [
+      "kering",
+      "snack",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "lays-rumput-laut",
+    "name": "Lays Rumput Laut",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 12000,
+    "emoji": "🌊",
+    "tags": [
+      "kering",
+      "snack",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "lays-keju",
+    "name": "Lays Keju",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 12000,
+    "emoji": "🧀",
+    "tags": [
+      "kering",
+      "snack",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "cheetos-jagung",
+    "name": "Cheetos Jagung Bakar",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 9000,
+    "emoji": "🌽",
+    "tags": [
+      "kering",
+      "snack",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "taro-net",
+    "name": "Taro Net",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 7000,
+    "emoji": "🟡",
+    "tags": [
+      "kering",
+      "snack",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "taro-snack",
+    "name": "Taro Snack Potato",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 8000,
+    "emoji": "🥔",
+    "tags": [
+      "kering",
+      "snack",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "piattos-sour-cream",
+    "name": "Piattos Sour Cream",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 10000,
+    "emoji": "🧀",
+    "tags": [
+      "kering",
+      "snack",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "piattos-keju",
+    "name": "Piattos Keju",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 10000,
+    "emoji": "🧀",
+    "tags": [
+      "kering",
+      "snack",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "kusuka-original",
+    "name": "Kusuka Original",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 9000,
+    "emoji": "🥜",
+    "tags": [
+      "kering",
+      "snack",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "kusuka-balado",
+    "name": "Kusuka Balado",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 9000,
+    "emoji": "🌶️",
+    "tags": [
+      "kering",
+      "pedas",
+      "snack",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "sukro-pedas",
+    "name": "Sukro Pedas",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 7000,
+    "emoji": "🌶️",
+    "tags": [
+      "kering",
+      "pedas",
+      "snack",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "sukro-keju",
+    "name": "Sukro Keju",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 7000,
+    "emoji": "🧀",
+    "tags": [
+      "kering",
+      "snack",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "kacang-atom-garuda",
+    "name": "Kacang Atom Garuda",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 8000,
+    "emoji": "🥜",
+    "tags": [
+      "kering",
+      "snack",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "garuda-kacang-telur",
+    "name": "Garuda Kacang Telur",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 8000,
+    "emoji": "🥜",
+    "tags": [
+      "kering",
+      "snack",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "dua-kelinci",
+    "name": "Dua Kelinci Kacang",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 10000,
+    "emoji": "🥜",
+    "tags": [
+      "kering",
+      "snack",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "kacang-sukro",
+    "name": "Kacang Sukro",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 6000,
+    "emoji": "🥜",
+    "tags": [
+      "kering",
+      "snack",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "kripik-pangsit",
+    "name": "Keripik Pangsit",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 12000,
+    "emoji": "🥟",
+    "tags": [
+      "kering",
+      "pedas",
+      "snack",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "kripik-bawang",
+    "name": "Keripik Bawang",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 10000,
+    "emoji": "🧅",
+    "tags": [
+      "kering",
+      "snack",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "kripik-tempe",
+    "name": "Keripik Tempe",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 10000,
+    "emoji": "🫘",
+    "tags": [
+      "kering",
+      "snack",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "kripik-pisang",
+    "name": "Keripik Pisang",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 12000,
+    "emoji": "🍌",
+    "tags": [
+      "kering",
+      "snack",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "kripik-nangka",
+    "name": "Keripik Nangka",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 15000,
+    "emoji": "🟡",
+    "tags": [
+      "kering",
+      "snack",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "makaroni-goreng-pedas",
+    "name": "Makaroni Goreng Pedas",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 10000,
+    "emoji": "🌶️",
+    "tags": [
+      "kering",
+      "pedas",
+      "snack",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "seblak-kering-level",
+    "name": "Seblak Kering Level Tinggi",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 15000,
+    "emoji": "🔥",
+    "tags": [
+      "kering",
+      "pedas",
+      "snack",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "basreng-ori",
+    "name": "Basreng Original",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 10000,
+    "emoji": "🍢",
+    "tags": [
+      "kering",
+      "snack",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "cireng-isi",
+    "name": "Cireng Isi",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 12000,
+    "emoji": "🧀",
+    "tags": [
+      "basah",
+      "segar",
+      "snack"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "cimol-bandung",
+    "name": "Cimol Bandung",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 10000,
+    "emoji": "🟡",
+    "tags": [
+      "basah",
+      "segar",
+      "snack"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "cilok-bumbu",
+    "name": "Cilok Bumbu Kacang",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 8000,
+    "emoji": "🍢",
+    "tags": [
+      "basah",
+      "kering",
+      "segar",
+      "snack",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "yupi",
+    "name": "Yupi Gummy",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 5000,
+    "emoji": "🐻",
+    "tags": [
+      "kering",
+      "manis",
+      "permen",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "yupi-nori",
+    "name": "Yupi Nori",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 5000,
+    "emoji": "🌊",
+    "tags": [
+      "kering",
+      "manis",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "mentos",
+    "name": "Mentos",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 6000,
+    "emoji": "🍬",
+    "tags": [
+      "kering",
+      "manis",
+      "permen",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "mentos-botol",
+    "name": "Mentos Botol",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 10000,
+    "emoji": "🍬",
+    "tags": [
+      "kering",
+      "manis",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "kiss",
+    "name": "Kiss Permen",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 3000,
+    "emoji": "💋",
+    "tags": [
+      "kering",
+      "manis",
+      "permen",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "frozz",
+    "name": "Frozz",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 5000,
+    "emoji": "❄️",
+    "tags": [
+      "manis",
+      "permen"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "nano-nano",
+    "name": "Nano-Nano",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 4000,
+    "emoji": "🍬",
+    "tags": [
+      "asam",
+      "manis"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "happytos",
+    "name": "Happy Tos",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 5000,
+    "emoji": "🌽",
+    "tags": [
+      "snack"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "tango-wafer-box",
+    "name": "Tango Wafer Box",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 15000,
+    "emoji": "🍪",
+    "tags": [
+      "kering",
+      "manis",
+      "tahan-lama",
+      "wafer"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "tango-royal",
+    "name": "Tango Royal Chocolate",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 12000,
+    "emoji": "🍫",
+    "tags": [
+      "kering",
+      "manis",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "astor-stick",
+    "name": "Astor Stick",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 10000,
+    "emoji": "🍫",
+    "tags": [
+      "cokelat",
+      "manis"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "bengbeng-share",
+    "name": "Beng-Beng Share It",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 15000,
+    "emoji": "🍫",
+    "tags": [
+      "cokelat",
+      "kering",
+      "manis",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "better-sandwich",
+    "name": "Better Sandwich Biscuit",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 8000,
+    "emoji": "🍪",
+    "tags": [
+      "kering",
+      "manis",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "nextar-brownies",
+    "name": "Nextar Brownies",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 9000,
+    "emoji": "🍫",
+    "tags": [
+      "kering",
+      "manis",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "nextar-nanas",
+    "name": "Nextar Nanas",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 8000,
+    "emoji": "🍍",
+    "tags": [
+      "kering",
+      "manis",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "oreo-soft-cake",
+    "name": "Oreo Soft Cake",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 10000,
+    "emoji": "🍪",
+    "tags": [
+      "kering",
+      "manis",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "oreo-wafer",
+    "name": "Oreo Wafer",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 8000,
+    "emoji": "🍪",
+    "tags": [
+      "kering",
+      "manis",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "good-time-double",
+    "name": "Good Time Double Choc",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 10000,
+    "emoji": "🍪",
+    "tags": [
+      "kering",
+      "manis",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "chocolatos-drink",
+    "name": "Chocolatos Drink",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 5000,
+    "emoji": "🥤",
+    "tags": [
+      "cokelat",
+      "kering",
+      "minuman",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "momogi-keju",
+    "name": "Momogi Keju",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 5000,
+    "emoji": "🧀",
+    "tags": [
+      "kering",
+      "snack",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "momogi-jagung",
+    "name": "Momogi Jagung Bakar",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 5000,
+    "emoji": "🌽",
+    "tags": [
+      "kering",
+      "snack",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "chiki-balls-keju",
+    "name": "Chiki Balls Keju",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 6000,
+    "emoji": "🧀",
+    "tags": [
+      "kering",
+      "snack",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "pilus-garuda",
+    "name": "Pilus Garuda",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 5000,
+    "emoji": "🟡",
+    "tags": [
+      "kering",
+      "snack",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "jetz-filled",
+    "name": "JetZ Filled",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 8000,
+    "emoji": "🍫",
+    "tags": [
+      "cokelat",
+      "kering",
+      "manis",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "pocky-strawberry",
+    "name": "Pocky Strawberry",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 12000,
+    "emoji": "🍓",
+    "tags": [
+      "kering",
+      "manis",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "pocky-matcha",
+    "name": "Pocky Matcha",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 13000,
+    "emoji": "🍵",
+    "tags": [
+      "kering",
+      "manis",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "hello-panda",
+    "name": "Hello Panda",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 12000,
+    "emoji": "🐼",
+    "tags": [
+      "cokelat",
+      "manis"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "koalas-march",
+    "name": "Koala's March",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 12000,
+    "emoji": "🐨",
+    "tags": [
+      "manis"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "pepero",
+    "name": "Pepero",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 15000,
+    "emoji": "🍫",
+    "tags": [
+      "cokelat",
+      "manis"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "chupa-chups-top",
+    "name": "Chupa Chups / Top Pop",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 3000,
+    "emoji": "🍭",
+    "tags": [
+      "manis",
+      "permen"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "chupa-chups",
+    "name": "Chupa Chups",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 5000,
+    "emoji": "🍭",
+    "tags": [
+      "manis"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "lollipop",
+    "name": "Lollipop",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 2000,
+    "emoji": "🍭",
+    "tags": [
+      "manis"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "permen-karet",
+    "name": "Permen Karet / Bubble Gum",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 3000,
+    "emoji": "🫧",
+    "tags": [
+      "kering",
+      "manis",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "permen-kopiko-coffee",
+    "name": "Kopiko Coffee Candy",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 5000,
+    "emoji": "☕",
+    "tags": [
+      "kering",
+      "manis",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "permen-naraya",
+    "name": "Naraya Milk Candy",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 8000,
+    "emoji": "🥛",
+    "tags": [
+      "manis"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "milkita",
+    "name": "Milkita",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 5000,
+    "emoji": "🥛",
+    "tags": [
+      "manis",
+      "permen"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "kiss-candy",
+    "name": "Kiss Soft Candy",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 4000,
+    "emoji": "🍬",
+    "tags": [
+      "manis"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "nastar",
+    "name": "Nastar",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 40000,
+    "emoji": "🍪",
+    "tags": [
+      "kering",
+      "manis",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "kastengel",
+    "name": "Kastengel",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 35000,
+    "emoji": "🧀",
+    "tags": [
+      "kering",
+      "manis",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "putri-salju",
+    "name": "Putri Salju",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 35000,
+    "emoji": "❄️",
+    "tags": [
+      "kering",
+      "manis",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "lidah-kucing",
+    "name": "Lidah Kucing",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 30000,
+    "emoji": "🍪",
+    "tags": [
+      "kering",
+      "manis",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "snack-kiloan-pedas",
+    "name": "Snack Kiloan Pedas",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 28000,
+    "emoji": "🌶️",
+    "tags": [
+      "bulk",
+      "pedas",
+      "snack"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "makaroni-kiloan",
+    "name": "Makaroni Kiloan",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 25000,
+    "emoji": "🍝",
+    "tags": [
+      "bulk",
+      "kering",
+      "snack",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "basreng-kiloan",
+    "name": "Basreng Kiloan",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 30000,
+    "emoji": "🌶️",
+    "tags": [
+      "bulk",
+      "kering",
+      "pedas",
+      "snack",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "nutrisari-jeruk",
+    "name": "Nutrisari Jeruk",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 2000,
+    "emoji": "🍊",
+    "tags": [
+      "minuman"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "nutrisari-mangga",
+    "name": "Nutrisari Mangga",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 2000,
+    "emoji": "🥭",
+    "tags": [
+      "minuman"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "pop-ice-coklat",
+    "name": "Pop Ice Coklat",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 2500,
+    "emoji": "🍫",
+    "tags": [
+      "minuman"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "pop-ice-strawberry",
+    "name": "Pop Ice Strawberry",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 2500,
+    "emoji": "🍓",
+    "tags": [
+      "minuman"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "marimas",
+    "name": "Marimas",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 1500,
+    "emoji": "🍹",
+    "tags": [
+      "minuman"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "segitiga-biru",
+    "name": "Susu Segitiga Biru Sachet",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 2000,
+    "emoji": "🥛",
+    "tags": [
+      "minuman"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "dancow-sachet",
+    "name": "Dancow Sachet",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 3000,
+    "emoji": "🥛",
+    "tags": [
+      "minuman"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "indomilk-sachet",
+    "name": "Indomilk Sachet",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 2000,
+    "emoji": "🥛",
+    "tags": [
+      "minuman"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "torabika",
+    "name": "Torabika Sachet",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 2500,
+    "emoji": "☕",
+    "tags": [
+      "kopi",
+      "minuman"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "good-day-sachet",
+    "name": "Good Day Sachet",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 2500,
+    "emoji": "☕",
+    "tags": [
+      "kopi",
+      "minuman"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "luwak-white-coffee",
+    "name": "Luwak White Coffee",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 3000,
+    "emoji": "☕",
+    "tags": [
+      "kopi",
+      "minuman"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "energen",
+    "name": "Energen",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 3000,
+    "emoji": "🥣",
+    "tags": [
+      "minuman"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "milo-sachet",
+    "name": "Milo Sachet",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 3000,
+    "emoji": "🍫",
+    "tags": [
+      "cokelat",
+      "minuman"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "bengbeng-drink",
+    "name": "Beng-Beng Drink Sachet",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 2500,
+    "emoji": "🍫",
+    "tags": [
+      "kering",
+      "minuman",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "silverqueen-cashew",
+    "name": "SilverQueen Cashew",
+    "category": "indomaret",
+    "store": "Indomaret / Minimarket",
+    "price": 18000,
+    "emoji": "🍫",
+    "tags": [
+      "cokelat",
+      "kering",
+      "manis",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "silverqueen-chunky",
+    "name": "SilverQueen Chunky Bar",
+    "category": "indomaret",
+    "store": "Indomaret / Minimarket",
+    "price": 12000,
+    "emoji": "🍫",
+    "tags": [
+      "cokelat",
+      "kering",
+      "manis",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "bengbeng-indomaret",
+    "name": "Beng-Beng (Indomaret)",
+    "category": "indomaret",
+    "store": "Indomaret / Minimarket",
+    "price": 8000,
+    "emoji": "🍫",
+    "tags": [
+      "kering",
+      "manis",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "tango-indomaret",
+    "name": "Tango Wafer (Indomaret)",
+    "category": "indomaret",
+    "store": "Indomaret / Minimarket",
+    "price": 7000,
+    "emoji": "🍪",
+    "tags": [
+      "kering",
+      "manis",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "oreo-indomaret",
+    "name": "Oreo (Indomaret)",
+    "category": "indomaret",
+    "store": "Indomaret / Minimarket",
+    "price": 9000,
+    "emoji": "🍪",
+    "tags": [
+      "kering",
+      "manis",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "chitato-indomaret",
+    "name": "Chitato (Indomaret)",
+    "category": "indomaret",
+    "store": "Indomaret / Minimarket",
+    "price": 11000,
+    "emoji": "🥔",
+    "tags": [
+      "kering",
+      "snack",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "qtela-indomaret",
+    "name": "Qtela (Indomaret)",
+    "category": "indomaret",
+    "store": "Indomaret / Minimarket",
+    "price": 10000,
+    "emoji": "🥔",
+    "tags": [
+      "kering",
+      "snack",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "pocky-indomaret",
+    "name": "Pocky (Indomaret)",
+    "category": "indomaret",
+    "store": "Indomaret / Minimarket",
+    "price": 13000,
+    "emoji": "🍫",
+    "tags": [
+      "kering",
+      "manis",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "nextar-indomaret",
+    "name": "Nextar (Indomaret)",
+    "category": "indomaret",
+    "store": "Indomaret / Minimarket",
+    "price": 8000,
+    "emoji": "🍪",
+    "tags": [
+      "kering",
+      "manis",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "good-time-indomaret",
+    "name": "Good Time (Indomaret)",
+    "category": "indomaret",
+    "store": "Indomaret / Minimarket",
+    "price": 9000,
+    "emoji": "🍪",
+    "tags": [
+      "kering",
+      "manis",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "momogi-indomaret",
+    "name": "Momogi (Indomaret)",
+    "category": "indomaret",
+    "store": "Indomaret / Minimarket",
+    "price": 5000,
+    "emoji": "🌽",
+    "tags": [
+      "kering",
+      "snack",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "taro-indomaret",
+    "name": "Taro (Indomaret)",
+    "category": "indomaret",
+    "store": "Indomaret / Minimarket",
+    "price": 8000,
+    "emoji": "🥔",
+    "tags": [
+      "kering",
+      "snack",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "piattos-indomaret",
+    "name": "Piattos (Indomaret)",
+    "category": "indomaret",
+    "store": "Indomaret / Minimarket",
+    "price": 10000,
+    "emoji": "🧀",
+    "tags": [
+      "kering",
+      "snack",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "kusuka-indomaret",
+    "name": "Kusuka (Indomaret)",
+    "category": "indomaret",
+    "store": "Indomaret / Minimarket",
+    "price": 9000,
+    "emoji": "🥜",
+    "tags": [
+      "kering",
+      "snack",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "sukro-indomaret",
+    "name": "Sukro (Indomaret)",
+    "category": "indomaret",
+    "store": "Indomaret / Minimarket",
+    "price": 7000,
+    "emoji": "🥜",
+    "tags": [
+      "kering",
+      "snack",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "tic-tac-indomaret",
+    "name": "Tic Tac (Indomaret)",
+    "category": "indomaret",
+    "store": "Indomaret / Minimarket",
+    "price": 9000,
+    "emoji": "🍬",
+    "tags": [
+      "kering",
+      "manis",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "mentos-indomaret",
+    "name": "Mentos (Indomaret)",
+    "category": "indomaret",
+    "store": "Indomaret / Minimarket",
+    "price": 7000,
+    "emoji": "🍬",
+    "tags": [
+      "kering",
+      "manis",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "yupi-indomaret",
+    "name": "Yupi (Indomaret)",
+    "category": "indomaret",
+    "store": "Indomaret / Minimarket",
+    "price": 6000,
+    "emoji": "🐻",
+    "tags": [
+      "kering",
+      "manis",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "chocolatos-indomaret",
+    "name": "Chocolatos (Indomaret)",
+    "category": "indomaret",
+    "store": "Indomaret / Minimarket",
+    "price": 10000,
+    "emoji": "🍫",
+    "tags": [
+      "kering",
+      "manis",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "choki-choki-indomaret",
+    "name": "Choki-Choki (Indomaret)",
+    "category": "indomaret",
+    "store": "Indomaret / Minimarket",
+    "price": 5000,
+    "emoji": "🍫",
+    "tags": [
+      "kering",
+      "manis",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "nabati-indomaret",
+    "name": "Nabati (Indomaret)",
+    "category": "indomaret",
+    "store": "Indomaret / Minimarket",
+    "price": 8000,
+    "emoji": "🍪",
+    "tags": [
+      "manis"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "richeese-indomaret",
+    "name": "Richeese (Indomaret)",
+    "category": "indomaret",
+    "store": "Indomaret / Minimarket",
+    "price": 9000,
+    "emoji": "🧀",
+    "tags": [
+      "snack"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "lays-indomaret",
+    "name": "Lays (Indomaret)",
+    "category": "indomaret",
+    "store": "Indomaret / Minimarket",
+    "price": 12000,
+    "emoji": "🥔",
+    "tags": [
+      "kering",
+      "snack",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "cheetos-indomaret",
+    "name": "Cheetos (Indomaret)",
+    "category": "indomaret",
+    "store": "Indomaret / Minimarket",
+    "price": 10000,
+    "emoji": "🧀",
+    "tags": [
+      "kering",
+      "snack",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "kacang-garuda-indomaret",
+    "name": "Kacang Garuda (Indomaret)",
+    "category": "indomaret",
+    "store": "Indomaret / Minimarket",
+    "price": 8000,
+    "emoji": "🥜",
+    "tags": [
+      "kering",
+      "snack",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "garuda-rosta-indomaret",
+    "name": "Garuda Rosta (Indomaret)",
+    "category": "indomaret",
+    "store": "Indomaret / Minimarket",
+    "price": 11000,
+    "emoji": "🥜",
+    "tags": [
+      "kering",
+      "snack",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "jetz-indomaret",
+    "name": "JetZ (Indomaret)",
+    "category": "indomaret",
+    "store": "Indomaret / Minimarket",
+    "price": 8000,
+    "emoji": "🍫",
+    "tags": [
+      "kering",
+      "manis",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "chiki-balls-indomaret",
+    "name": "Chiki Balls (Indomaret)",
+    "category": "indomaret",
+    "store": "Indomaret / Minimarket",
+    "price": 6000,
+    "emoji": "🟡",
+    "tags": [
+      "kering",
+      "snack",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "pilus-indomaret",
+    "name": "Pilus (Indomaret)",
+    "category": "indomaret",
+    "store": "Indomaret / Minimarket",
+    "price": 5000,
+    "emoji": "🟡",
+    "tags": [
+      "kering",
+      "snack",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "krip-krip-indomaret",
+    "name": "Krip-Krip (Indomaret)",
+    "category": "indomaret",
+    "store": "Indomaret / Minimarket",
+    "price": 8000,
+    "emoji": "🥔",
+    "tags": [
+      "snack"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "hello-panda-indomaret",
+    "name": "Hello Panda (Indomaret)",
+    "category": "indomaret",
+    "store": "Indomaret / Minimarket",
+    "price": 13000,
+    "emoji": "🐼",
+    "tags": [
+      "manis"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "kitkat-indomaret",
+    "name": "KitKat (Indomaret)",
+    "category": "indomaret",
+    "store": "Indomaret / Minimarket",
+    "price": 9000,
+    "emoji": "🍫",
+    "tags": [
+      "kering",
+      "manis",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "snickers-indomaret",
+    "name": "Snickers (Indomaret)",
+    "category": "indomaret",
+    "store": "Indomaret / Minimarket",
+    "price": 13000,
+    "emoji": "🍫",
+    "tags": [
+      "manis"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "kinder-joy-indomaret",
+    "name": "Kinder Joy (Indomaret)",
+    "category": "indomaret",
+    "store": "Indomaret / Minimarket",
+    "price": 16000,
+    "emoji": "🥚",
+    "tags": [
+      "manis"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "mie-gemez",
+    "name": "Mie Gemez",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 5000,
+    "emoji": "🍜",
+    "tags": [
+      "kering",
+      "pedas",
+      "snack",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "leo-snack",
+    "name": "Leo",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 7000,
+    "emoji": "🍪",
+    "tags": [
+      "snack",
+      "wafer"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "potato-snack",
+    "name": "Potato Snack",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 8000,
+    "emoji": "🥔",
+    "tags": [
+      "snack"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "oishi",
+    "name": "Oishi",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 8000,
+    "emoji": "🦐",
+    "tags": [
+      "snack"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "pejoy",
+    "name": "Pejoy",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 12000,
+    "emoji": "🍫",
+    "tags": [
+      "cokelat",
+      "manis"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "tim-tam",
+    "name": "Tim Tam",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 18000,
+    "emoji": "🍪",
+    "tags": [
+      "cokelat",
+      "manis"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "chacha",
+    "name": "ChaCha",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 10000,
+    "emoji": "🥜",
+    "tags": [
+      "cokelat",
+      "snack"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "sugus",
+    "name": "Sugus",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 5000,
+    "emoji": "🍬",
+    "tags": [
+      "manis",
+      "permen"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "relaxa",
+    "name": "Relaxa",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 5000,
+    "emoji": "🍬",
+    "tags": [
+      "manis",
+      "permen"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "foxs",
+    "name": "Fox's",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 12000,
+    "emoji": "🍬",
+    "tags": [
+      "manis",
+      "permen"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "roma-malkist",
+    "name": "Roma Malkist",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 8000,
+    "emoji": "🍪",
+    "tags": [
+      "biskuit",
+      "kering",
+      "manis",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "slai-olai",
+    "name": "Slai O'lai",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 7000,
+    "emoji": "🍪",
+    "tags": [
+      "biskuit",
+      "manis"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "toppo",
+    "name": "Toppo",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 12000,
+    "emoji": "🍫",
+    "tags": [
+      "cokelat",
+      "manis"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "kacang-atom",
+    "name": "Kacang Atom",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 8000,
+    "emoji": "🥜",
+    "tags": [
+      "kering",
+      "snack",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "dorayaki",
+    "name": "Dorayaki",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 8000,
+    "emoji": "🥞",
+    "tags": [
+      "manis"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "marukawa",
+    "name": "Marukawa",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 3000,
+    "emoji": "🫧",
+    "tags": [
+      "manis",
+      "permen"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "kacang-kapri",
+    "name": "Kacang Kapri",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 8000,
+    "emoji": "🥜",
+    "tags": [
+      "kering",
+      "snack",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "kerupuk-kulit",
+    "name": "Kerupuk Kulit",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 15000,
+    "emoji": "🐷",
+    "tags": [
+      "pedas",
+      "snack"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "opak",
+    "name": "Opak",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 10000,
+    "emoji": "🍘",
+    "tags": [
+      "kering",
+      "snack",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "sale-pisang",
+    "name": "Sale Pisang",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 12000,
+    "emoji": "🍌",
+    "tags": [
+      "kering",
+      "manis",
+      "snack",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "kue-kuping-gajah",
+    "name": "Kue Kuping Gajah",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 15000,
+    "emoji": "🐘",
+    "tags": [
+      "kering",
+      "manis",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "kue-semprong",
+    "name": "Kue Semprong",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 12000,
+    "emoji": "🍪",
+    "tags": [
+      "kering",
+      "manis",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "wafer-superman",
+    "name": "Wafer Superman",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 5000,
+    "emoji": "🍪",
+    "tags": [
+      "kering",
+      "manis",
+      "tahan-lama",
+      "wafer"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "wafer-nissin",
+    "name": "Wafer Nissin",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 6000,
+    "emoji": "🍪",
+    "tags": [
+      "kering",
+      "manis",
+      "tahan-lama",
+      "wafer"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "better-chocolate",
+    "name": "Better Chocolate",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 8000,
+    "emoji": "🍫",
+    "tags": [
+      "cokelat",
+      "kering",
+      "manis",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "biskuat",
+    "name": "Biskuat",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 7000,
+    "emoji": "🍪",
+    "tags": [
+      "biskuit",
+      "manis"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "toblerone-mini",
+    "name": "Toblerone Mini",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 15000,
+    "emoji": "🍫",
+    "tags": [
+      "cokelat",
+      "manis"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "haribo",
+    "name": "Haribo",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 12000,
+    "emoji": "🐻",
+    "tags": [
+      "manis",
+      "permen"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "fruit-tella",
+    "name": "Fruit-tella",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 6000,
+    "emoji": "🍬",
+    "tags": [
+      "manis",
+      "permen"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "alpenliebe",
+    "name": "Alpenliebe",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 5000,
+    "emoji": "🍬",
+    "tags": [
+      "manis",
+      "permen"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "halls",
+    "name": "Halls",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 5000,
+    "emoji": "🍬",
+    "tags": [
+      "manis",
+      "permen"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "fishermans-friend",
+    "name": "Fisherman's Friend",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 8000,
+    "emoji": "🍬",
+    "tags": [
+      "permen"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "big-babol",
+    "name": "Big Babol",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 4000,
+    "emoji": "🫧",
+    "tags": [
+      "manis",
+      "permen"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "pop-rocks",
+    "name": "Pop Rocks",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 8000,
+    "emoji": "💥",
+    "tags": [
+      "manis",
+      "permen"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "jelly-drink",
+    "name": "Jelly Drink",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 5000,
+    "emoji": "🍮",
+    "tags": [
+      "manis",
+      "minuman"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "yan-yan",
+    "name": "Yan Yan",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 12000,
+    "emoji": "🍪",
+    "tags": [
+      "manis",
+      "snack"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "pretz",
+    "name": "Pretz",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 12000,
+    "emoji": "🥨",
+    "tags": [
+      "snack"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "calbee",
+    "name": "Calbee",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 15000,
+    "emoji": "🥔",
+    "tags": [
+      "kering",
+      "snack",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "pringles",
+    "name": "Pringles",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 25000,
+    "emoji": "🥔",
+    "tags": [
+      "kering",
+      "snack",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "jack-n-jill",
+    "name": "Jack 'n Jill",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 10000,
+    "emoji": "🍪",
+    "tags": [
+      "snack"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "mister-potato",
+    "name": "Mister Potato",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 12000,
+    "emoji": "🥔",
+    "tags": [
+      "snack"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "oishi-prawn",
+    "name": "Oishi Prawn Crackers",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 9000,
+    "emoji": "🦐",
+    "tags": [
+      "snack"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "doritos",
+    "name": "Doritos",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 15000,
+    "emoji": "🌮",
+    "tags": [
+      "kering",
+      "snack",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "cheetos-ring",
+    "name": "Cheetos Ring",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 9000,
+    "emoji": "🧀",
+    "tags": [
+      "kering",
+      "snack",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "kacang-polong",
+    "name": "Kacang Polong",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 8000,
+    "emoji": "🟢",
+    "tags": [
+      "kering",
+      "snack",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "kuaci",
+    "name": "Kuaci",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 7000,
+    "emoji": "🌻",
+    "tags": [
+      "kering",
+      "snack",
+      "tahan-lama"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "tao-kae-noi",
+    "name": "Rumput Laut Tao Kae Noi",
+    "category": "jajanan",
+    "store": "Agen / Warung",
+    "price": 15000,
+    "emoji": "🌊",
+    "tags": [
+      "snack"
+    ],
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "rengginang",
+    "name": "Rengginang",
+    "emoji": "🍘",
+    "price": 15000,
+    "tags": [
+      "kering",
+      "lokal",
+      "tahan-lama"
+    ],
+    "category": "kering",
+    "store": "Agen / Warung",
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "amplang",
+    "name": "Amplang",
+    "emoji": "🐟",
+    "price": 25000,
+    "tags": [
+      "kering",
+      "lokal",
+      "tahan-lama"
+    ],
+    "category": "kering",
+    "store": "Agen / Warung",
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "gurilem",
+    "name": "Gurilem",
+    "emoji": "🍥",
+    "price": 12000,
+    "tags": [
+      "kering",
+      "lokal",
+      "tahan-lama"
+    ],
+    "category": "kering",
+    "store": "Agen / Warung",
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "kemplang",
+    "name": "Kemplang",
+    "emoji": "🐟",
+    "price": 15000,
+    "tags": [
+      "kering",
+      "lokal",
+      "tahan-lama"
+    ],
+    "category": "kering",
+    "store": "Agen / Warung",
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "keripik-sanjai",
+    "name": "Keripik Sanjai Balado",
+    "emoji": "🌶️",
+    "price": 20000,
+    "tags": [
+      "kering",
+      "lokal",
+      "pedas",
+      "tahan-lama"
+    ],
+    "category": "kering",
+    "store": "Agen / Warung",
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "keripik-beling",
+    "name": "Keripik Beling",
+    "emoji": "💎",
+    "price": 15000,
+    "tags": [
+      "kering",
+      "lokal",
+      "tahan-lama"
+    ],
+    "category": "kering",
+    "store": "Agen / Warung",
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "emping",
+    "name": "Emping Melinjo",
+    "emoji": "🟢",
+    "price": 18000,
+    "tags": [
+      "kering",
+      "lokal",
+      "tahan-lama"
+    ],
+    "category": "kering",
+    "store": "Agen / Warung",
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "rempeyek",
+    "name": "Rempeyek",
+    "emoji": "🥜",
+    "price": 15000,
+    "tags": [
+      "kering",
+      "lokal",
+      "tahan-lama"
+    ],
+    "category": "kering",
+    "store": "Agen / Warung",
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "kerupuk-ikan",
+    "name": "Kerupuk Ikan",
+    "emoji": "🐟",
+    "price": 12000,
+    "tags": [
+      "kering",
+      "lokal",
+      "tahan-lama"
+    ],
+    "category": "kering",
+    "store": "Agen / Warung",
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "kerupuk-udang",
+    "name": "Kerupuk Udang",
+    "emoji": "🦐",
+    "price": 15000,
+    "tags": [
+      "kering",
+      "lokal",
+      "tahan-lama"
+    ],
+    "category": "kering",
+    "store": "Agen / Warung",
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "kerupuk-bawang-putih",
+    "name": "Kerupuk Bawang",
+    "emoji": "🧅",
+    "price": 10000,
+    "tags": [
+      "kering",
+      "tahan-lama"
+    ],
+    "category": "kering",
+    "store": "Agen / Warung",
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "dodol",
+    "name": "Dodol",
+    "emoji": "🟤",
+    "price": 20000,
+    "tags": [
+      "kering",
+      "lokal",
+      "manis",
+      "tahan-lama"
+    ],
+    "category": "kering",
+    "store": "Agen / Warung",
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "wajit",
+    "name": "Wajit",
+    "emoji": "🟡",
+    "price": 15000,
+    "tags": [
+      "kering",
+      "lokal",
+      "manis",
+      "tahan-lama"
+    ],
+    "category": "kering",
+    "store": "Agen / Warung",
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "wingko",
+    "name": "Wingko Babat (kering/pack)",
+    "emoji": "🥥",
+    "price": 25000,
+    "tags": [
+      "kering",
+      "lokal",
+      "manis",
+      "tahan-lama"
+    ],
+    "category": "kering",
+    "store": "Agen / Warung",
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "getuk",
+    "name": "Getuk Goreng / Getuk Kering",
+    "emoji": "🍠",
+    "price": 15000,
+    "tags": [
+      "kering",
+      "lokal",
+      "tahan-lama"
+    ],
+    "category": "kering",
+    "store": "Agen / Warung",
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "slondok",
+    "name": "Slondok",
+    "emoji": "🌶️",
+    "price": 12000,
+    "tags": [
+      "kering",
+      "lokal",
+      "pedas",
+      "tahan-lama"
+    ],
+    "category": "kering",
+    "store": "Agen / Warung",
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "brisik",
+    "name": "Brisik / Keripik Usus Kering",
+    "emoji": "🔥",
+    "price": 15000,
+    "tags": [
+      "kering",
+      "pedas",
+      "tahan-lama"
+    ],
+    "category": "kering",
+    "store": "Agen / Warung",
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "makaroni-schezuan",
+    "name": "Makaroni Schezuan",
+    "emoji": "🌶️",
+    "price": 12000,
+    "tags": [
+      "kering",
+      "pedas",
+      "tahan-lama"
+    ],
+    "category": "kering",
+    "store": "Agen / Warung",
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "basreng-daun-jeruk",
+    "name": "Basreng Daun Jeruk",
+    "emoji": "🌿",
+    "price": 12000,
+    "tags": [
+      "kering",
+      "pedas",
+      "tahan-lama"
+    ],
+    "category": "kering",
+    "store": "Agen / Warung",
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "kripik-jambu-mete",
+    "name": "Keripik Jambu Mete",
+    "emoji": "🥜",
+    "price": 28000,
+    "tags": [
+      "kering",
+      "tahan-lama"
+    ],
+    "category": "kering",
+    "store": "Agen / Warung",
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "kacang-mete",
+    "name": "Kacang Mete",
+    "emoji": "🥜",
+    "price": 30000,
+    "tags": [
+      "kering",
+      "tahan-lama"
+    ],
+    "category": "kering",
+    "store": "Agen / Warung",
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "kacang-atom-pedas",
+    "name": "Kacang Atom Pedas",
+    "emoji": "🌶️",
+    "price": 9000,
+    "tags": [
+      "kering",
+      "pedas",
+      "tahan-lama"
+    ],
+    "category": "kering",
+    "store": "Agen / Warung",
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "kuaci-rebo",
+    "name": "Kuaci Rebo",
+    "emoji": "🌻",
+    "price": 10000,
+    "tags": [
+      "kering",
+      "tahan-lama"
+    ],
+    "category": "kering",
+    "store": "Agen / Warung",
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "kuaci-original",
+    "name": "Kuaci Original",
+    "emoji": "🌻",
+    "price": 7000,
+    "tags": [
+      "kering",
+      "tahan-lama"
+    ],
+    "category": "kering",
+    "store": "Agen / Warung",
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "biji-labu",
+    "name": "Biji Labu / Labu Asin",
+    "emoji": "🎃",
+    "price": 12000,
+    "tags": [
+      "kering",
+      "tahan-lama"
+    ],
+    "category": "kering",
+    "store": "Agen / Warung",
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "abon-kering",
+    "name": "Abon Sapi / Ayam (pack)",
+    "emoji": "🍖",
+    "price": 20000,
+    "tags": [
+      "kering",
+      "tahan-lama"
+    ],
+    "category": "kering",
+    "store": "Agen / Warung",
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "dendeng-kering",
+    "name": "Dendeng Kering",
+    "emoji": "🥩",
+    "price": 35000,
+    "tags": [
+      "kering",
+      "pedas",
+      "tahan-lama"
+    ],
+    "category": "kering",
+    "store": "Agen / Warung",
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "ikan-asin-kering",
+    "name": "Ikan Asin Kering (pack kecil)",
+    "emoji": "🐟",
+    "price": 15000,
+    "tags": [
+      "kering",
+      "tahan-lama"
+    ],
+    "category": "kering",
+    "store": "Agen / Warung",
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "mie-instan-kering",
+    "name": "Mie Instan (Indomie/dll)",
+    "emoji": "🍜",
+    "price": 3500,
+    "tags": [
+      "kering",
+      "tahan-lama"
+    ],
+    "category": "kering",
+    "store": "Agen / Warung",
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "bihun-instan",
+    "name": "Bihun Instan",
+    "emoji": "🍜",
+    "price": 4000,
+    "tags": [
+      "kering",
+      "tahan-lama"
+    ],
+    "category": "kering",
+    "store": "Agen / Warung",
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "soun-instan",
+    "name": "Soun / Sohun Pack",
+    "emoji": "🍜",
+    "price": 5000,
+    "tags": [
+      "kering",
+      "tahan-lama"
+    ],
+    "category": "kering",
+    "store": "Agen / Warung",
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "wafer-tango-kering",
+    "name": "Wafer (pack)",
+    "emoji": "🍪",
+    "price": 8000,
+    "tags": [
+      "kering",
+      "manis",
+      "tahan-lama"
+    ],
+    "category": "kering",
+    "store": "Agen / Warung",
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "biskuit-roma-kering",
+    "name": "Biskuit Roma (pack)",
+    "emoji": "🍪",
+    "price": 7000,
+    "tags": [
+      "kering",
+      "manis",
+      "tahan-lama"
+    ],
+    "category": "kering",
+    "store": "Agen / Warung",
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "cireng-basah",
+    "name": "Cireng (segar/goreng)",
+    "emoji": "🧀",
+    "price": 10000,
+    "tags": [
+      "basah",
+      "lokal",
+      "segar"
+    ],
+    "note_hint": "sebaiknya dihabiskan 1–2 hari",
+    "category": "basah",
+    "store": "Agen / Warung / Titipan",
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "cimol-basah",
+    "name": "Cimol (segar)",
+    "emoji": "🟡",
+    "price": 10000,
+    "tags": [
+      "basah",
+      "lokal",
+      "segar"
+    ],
+    "category": "basah",
+    "store": "Agen / Warung / Titipan",
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "cilok-basah",
+    "name": "Cilok (segar)",
+    "emoji": "🍢",
+    "price": 8000,
+    "tags": [
+      "basah",
+      "lokal",
+      "segar"
+    ],
+    "category": "basah",
+    "store": "Agen / Warung / Titipan",
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "batagor-kering-basah",
+    "name": "Batagor / Siomay siap makan",
+    "emoji": "🥟",
+    "price": 15000,
+    "tags": [
+      "basah",
+      "lokal",
+      "segar"
+    ],
+    "category": "basah",
+    "store": "Agen / Warung / Titipan",
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "pempek-segar",
+    "name": "Pempek (segar)",
+    "emoji": "🐟",
+    "price": 25000,
+    "tags": [
+      "basah",
+      "lokal",
+      "segar"
+    ],
+    "category": "basah",
+    "store": "Agen / Warung / Titipan",
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "risoles-segar",
+    "name": "Risol / Risoles",
+    "emoji": "🥟",
+    "price": 3000,
+    "tags": [
+      "basah",
+      "segar"
+    ],
+    "category": "basah",
+    "store": "Agen / Warung / Titipan",
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "pastel-segar",
+    "name": "Pastel (segar)",
+    "emoji": "🥟",
+    "price": 3000,
+    "tags": [
+      "basah",
+      "segar"
+    ],
+    "category": "basah",
+    "store": "Agen / Warung / Titipan",
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "sosis-solo-segar",
+    "name": "Sosis Solo",
+    "emoji": "🌭",
+    "price": 3000,
+    "tags": [
+      "basah",
+      "segar"
+    ],
+    "category": "basah",
+    "store": "Agen / Warung / Titipan",
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "lemper",
+    "name": "Lemper",
+    "emoji": "🍙",
+    "price": 4000,
+    "tags": [
+      "basah",
+      "lokal",
+      "segar"
+    ],
+    "category": "basah",
+    "store": "Agen / Warung / Titipan",
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "arem-arem",
+    "name": "Arem-arem",
+    "emoji": "🍙",
+    "price": 4000,
+    "tags": [
+      "basah",
+      "lokal",
+      "segar"
+    ],
+    "category": "basah",
+    "store": "Agen / Warung / Titipan",
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "lontong",
+    "name": "Lontong / Ketupat isi",
+    "emoji": "🍙",
+    "price": 5000,
+    "tags": [
+      "basah",
+      "lokal",
+      "segar"
+    ],
+    "category": "basah",
+    "store": "Agen / Warung / Titipan",
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "kue-cubit",
+    "name": "Kue Cubit",
+    "emoji": "🧁",
+    "price": 10000,
+    "tags": [
+      "basah",
+      "manis",
+      "segar"
+    ],
+    "category": "basah",
+    "store": "Agen / Warung / Titipan",
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "pancake-durian",
+    "name": "Pancake Durian",
+    "emoji": "🥞",
+    "price": 15000,
+    "tags": [
+      "basah",
+      "manis",
+      "segar"
+    ],
+    "category": "basah",
+    "store": "Agen / Warung / Titipan",
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "martabak-manis-segar",
+    "name": "Martabak Manis",
+    "emoji": "🥞",
+    "price": 25000,
+    "tags": [
+      "basah",
+      "manis",
+      "segar"
+    ],
+    "category": "basah",
+    "store": "Agen / Warung / Titipan",
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "martabak-telur",
+    "name": "Martabak Telur",
+    "emoji": "🥞",
+    "price": 20000,
+    "tags": [
+      "basah",
+      "segar"
+    ],
+    "category": "basah",
+    "store": "Agen / Warung / Titipan",
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "pisang-molen",
+    "name": "Pisang Molen / Pisang Goreng",
+    "emoji": "🍌",
+    "price": 8000,
+    "tags": [
+      "basah",
+      "segar"
+    ],
+    "category": "basah",
+    "store": "Agen / Warung / Titipan",
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "tahu-isi",
+    "name": "Tahu Isi / Tahu Gejrot",
+    "emoji": "🧈",
+    "price": 8000,
+    "tags": [
+      "basah",
+      "lokal",
+      "segar"
+    ],
+    "category": "basah",
+    "store": "Agen / Warung / Titipan",
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "tempe-mendoan",
+    "name": "Tempe Mendoan",
+    "emoji": "🫘",
+    "price": 8000,
+    "tags": [
+      "basah",
+      "lokal",
+      "segar"
+    ],
+    "category": "basah",
+    "store": "Agen / Warung / Titipan",
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "bakwan",
+    "name": "Bakwan / Bala-bala",
+    "emoji": "🥬",
+    "price": 5000,
+    "tags": [
+      "basah",
+      "lokal",
+      "segar"
+    ],
+    "category": "basah",
+    "store": "Agen / Warung / Titipan",
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "combro-misro",
+    "name": "Combro / Misro",
+    "emoji": "🌶️",
+    "price": 3000,
+    "tags": [
+      "basah",
+      "lokal",
+      "segar"
+    ],
+    "category": "basah",
+    "store": "Agen / Warung / Titipan",
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "onde-onde",
+    "name": "Onde-onde",
+    "emoji": "🟡",
+    "price": 3000,
+    "tags": [
+      "basah",
+      "manis",
+      "segar"
+    ],
+    "category": "basah",
+    "store": "Agen / Warung / Titipan",
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "kue-lapis",
+    "name": "Kue Lapis",
+    "emoji": "🌈",
+    "price": 15000,
+    "tags": [
+      "basah",
+      "lokal",
+      "manis",
+      "segar"
+    ],
+    "category": "basah",
+    "store": "Agen / Warung / Titipan",
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "kue-lumpur",
+    "name": "Kue Lumpur",
+    "emoji": "🧁",
+    "price": 10000,
+    "tags": [
+      "basah",
+      "manis",
+      "segar"
+    ],
+    "category": "basah",
+    "store": "Agen / Warung / Titipan",
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "brownies-kukus",
+    "name": "Brownies Kukus",
+    "emoji": "🍫",
+    "price": 25000,
+    "tags": [
+      "basah",
+      "manis",
+      "segar"
+    ],
+    "category": "basah",
+    "store": "Agen / Warung / Titipan",
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "roti-bakar-isi",
+    "name": "Roti Bakar / Roti isi",
+    "emoji": "🍞",
+    "price": 12000,
+    "tags": [
+      "basah",
+      "segar"
+    ],
+    "category": "basah",
+    "store": "Agen / Warung / Titipan",
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "salad-buah",
+    "name": "Salad Buah",
+    "emoji": "🥗",
+    "price": 15000,
+    "tags": [
+      "basah",
+      "segar"
+    ],
+    "category": "basah",
+    "store": "Agen / Warung / Titipan",
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "yogurt-segar",
+    "name": "Yogurt / Drink Yogurt",
+    "emoji": "🥛",
+    "price": 8000,
+    "tags": [
+      "basah",
+      "minuman",
+      "segar"
+    ],
+    "category": "basah",
+    "store": "Agen / Warung / Titipan",
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "susu-segar",
+    "name": "Susu Segar (bukan UHT)",
+    "emoji": "🥛",
+    "price": 10000,
+    "tags": [
+      "basah",
+      "minuman",
+      "segar"
+    ],
+    "category": "basah",
+    "store": "Agen / Warung / Titipan",
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "tahu-susu",
+    "name": "Tahu Susu",
+    "emoji": "🧈",
+    "price": 12000,
+    "tags": [
+      "basah",
+      "segar"
+    ],
+    "category": "basah",
+    "store": "Agen / Warung / Titipan",
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "siomay-segar",
+    "name": "Siomay Bandung",
+    "emoji": "🥟",
+    "price": 15000,
+    "tags": [
+      "basah",
+      "lokal",
+      "segar"
+    ],
+    "category": "basah",
+    "store": "Agen / Warung / Titipan",
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "teh-botol-sosro",
+    "name": "Teh Botol Sosro",
+    "emoji": "🍵",
+    "price": 5000,
+    "store": "Indomaret / Minimarket",
+    "tags": [
+      "minuman"
+    ],
+    "category": "minuman",
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "teh-pucuk-minum",
+    "name": "Teh Pucuk",
+    "emoji": "🍵",
+    "price": 5000,
+    "store": "Indomaret / Minimarket",
+    "tags": [
+      "minuman"
+    ],
+    "category": "minuman",
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "ultramilk-coklat",
+    "name": "Ultra Milk Coklat",
+    "emoji": "🥛",
+    "price": 7000,
+    "store": "Indomaret / Minimarket",
+    "tags": [
+      "minuman"
+    ],
+    "category": "minuman",
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "ultramilk-full",
+    "name": "Ultra Milk Full Cream",
+    "emoji": "🥛",
+    "price": 7000,
+    "store": "Indomaret / Minimarket",
+    "tags": [
+      "minuman"
+    ],
+    "category": "minuman",
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "indomilk-botol",
+    "name": "Indomilk Botol / Kotak",
+    "emoji": "🥛",
+    "price": 6000,
+    "store": "Indomaret / Minimarket",
+    "tags": [
+      "minuman"
+    ],
+    "category": "minuman",
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "milo-botol",
+    "name": "Milo Botol / UHT",
+    "emoji": "🍫",
+    "price": 8000,
+    "store": "Indomaret / Minimarket",
+    "tags": [
+      "minuman"
+    ],
+    "category": "minuman",
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "fanta",
+    "name": "Fanta",
+    "emoji": "🟠",
+    "price": 6000,
+    "store": "Indomaret / Minimarket",
+    "tags": [
+      "minuman"
+    ],
+    "category": "minuman",
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "sprite",
+    "name": "Sprite",
+    "emoji": "🟢",
+    "price": 6000,
+    "store": "Indomaret / Minimarket",
+    "tags": [
+      "minuman"
+    ],
+    "category": "minuman",
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "coca-cola",
+    "name": "Coca-Cola",
+    "emoji": "🥤",
+    "price": 6000,
+    "store": "Indomaret / Minimarket",
+    "tags": [
+      "minuman"
+    ],
+    "category": "minuman",
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "pulpy",
+    "name": "Minute Maid Pulpy",
+    "emoji": "🍊",
+    "price": 7000,
+    "store": "Indomaret / Minimarket",
+    "tags": [
+      "minuman"
+    ],
+    "category": "minuman",
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "you-c1000",
+    "name": "You C1000",
+    "emoji": "🍋",
+    "price": 8000,
+    "store": "Indomaret / Minimarket",
+    "tags": [
+      "minuman"
+    ],
+    "category": "minuman",
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "mizone",
+    "name": "Mizone",
+    "emoji": "💧",
+    "price": 6000,
+    "store": "Indomaret / Minimarket",
+    "tags": [
+      "minuman"
+    ],
+    "category": "minuman",
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "hydro-coco",
+    "name": "Hydro Coco / Air Kelapa",
+    "emoji": "🥥",
+    "price": 8000,
+    "store": "Indomaret / Minimarket",
+    "tags": [
+      "minuman"
+    ],
+    "category": "minuman",
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "goodday-botol",
+    "name": "Good Day Botol",
+    "emoji": "☕",
+    "price": 7000,
+    "store": "Indomaret / Minimarket",
+    "tags": [
+      "minuman"
+    ],
+    "category": "minuman",
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "kopi-kenangan-botol",
+    "name": "Kopi siap minum (botol)",
+    "emoji": "☕",
+    "price": 12000,
+    "store": "Indomaret / Minimarket",
+    "tags": [
+      "minuman"
+    ],
+    "category": "minuman",
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "cimory",
+    "name": "Cimory Yogurt / Milk",
+    "emoji": "🥛",
+    "price": 9000,
+    "store": "Indomaret / Minimarket",
+    "tags": [
+      "minuman"
+    ],
+    "category": "minuman",
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "hilo",
+    "name": "HiLo",
+    "emoji": "🥛",
+    "price": 8000,
+    "store": "Indomaret / Minimarket",
+    "tags": [
+      "minuman"
+    ],
+    "category": "minuman",
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "latte-botol",
+    "name": "Latte / Coffee Drink",
+    "emoji": "☕",
+    "price": 9000,
+    "store": "Indomaret / Minimarket",
+    "tags": [
+      "minuman"
+    ],
+    "category": "minuman",
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "pop-ice-minum",
+    "name": "Pop Ice Sachet",
+    "emoji": "🍧",
+    "price": 2500,
+    "store": "Agen / Warung",
+    "tags": [
+      "kering",
+      "minuman",
+      "tahan-lama"
+    ],
+    "category": "minuman",
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "marimas-minum",
+    "name": "Marimas Sachet",
+    "emoji": "🍹",
+    "price": 1500,
+    "store": "Agen / Warung",
+    "tags": [
+      "kering",
+      "minuman",
+      "tahan-lama"
+    ],
+    "category": "minuman",
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "torabika-minum",
+    "name": "Torabika / Kopi Sachet",
+    "emoji": "☕",
+    "price": 2500,
+    "store": "Agen / Warung",
+    "tags": [
+      "kering",
+      "minuman",
+      "tahan-lama"
+    ],
+    "category": "minuman",
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "energen-minum",
+    "name": "Energen Sachet",
+    "emoji": "🥣",
+    "price": 3000,
+    "store": "Agen / Warung",
+    "tags": [
+      "kering",
+      "minuman",
+      "tahan-lama"
+    ],
+    "category": "minuman",
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "jahe-sachet",
+    "name": "Wedang Jahe Sachet",
+    "emoji": "🫚",
+    "price": 3000,
+    "store": "Agen / Warung",
+    "tags": [
+      "kering",
+      "lokal",
+      "minuman",
+      "tahan-lama"
+    ],
+    "category": "minuman",
+    "lastUpdated": "2026-09-09"
+  },
+  {
+    "id": "teh-celup",
+    "name": "Teh Celup / Teh Bubuk",
+    "emoji": "🍵",
+    "price": 5000,
+    "store": "Agen / Warung",
+    "tags": [
+      "kering",
+      "minuman",
+      "tahan-lama"
+    ],
+    "category": "minuman",
+    "lastUpdated": "2026-09-09"
+  }
+]

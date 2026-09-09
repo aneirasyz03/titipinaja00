@@ -1,0 +1,116 @@
+[
+  {
+    "id": "jajanan",
+    "name": "Jajanan Agen",
+    "emoji": "🍪",
+    "description": "Snack-snack agen & warung"
+  },
+  {
+    "id": "indomaret",
+    "name": "Indomaret / Minimarket",
+    "emoji": "🛒",
+    "description": "Barang dari minimarket"
+  },
+  {
+    "id": "makanan",
+    "name": "Makanan",
+    "emoji": "🍱",
+    "description": "Makanan favorit"
+  },
+  {
+    "id": "toiletries",
+    "name": "Toiletries",
+    "emoji": "🧴",
+    "description": "Perawatan diri"
+  },
+  {
+    "id": "atk",
+    "name": "ATK & Sekolah",
+    "emoji": "📚",
+    "description": "Alat tulis & keperluan sekolah"
+  },
+  {
+    "id": "pakaian",
+    "name": "Pakaian",
+    "emoji": "👕",
+    "description": "Baju & fashion"
+  },
+  {
+    "id": "pondok",
+    "name": "Keperluan Pondok",
+    "emoji": "🕌",
+    "description": "Barang-barang pondok"
+  },
+  {
+    "id": "electronics",
+    "name": "Electronics",
+    "emoji": "🔌",
+    "description": "Kabel, charger & aksesori"
+  },
+  {
+    "id": "personal",
+    "name": "Personal Needs",
+    "emoji": "💊",
+    "description": "Keperluan pribadi umum"
+  },
+  {
+    "id": "shopee",
+    "name": "Shopee Finds",
+    "emoji": "🛍️",
+    "description": "Barang random dari Shopee buat dititip"
+  },
+  {
+    "id": "cute-stuff",
+    "name": "Cute Stuff",
+    "emoji": "🎀",
+    "description": "Aksesoris, stationery, pouch lucu"
+  },
+  {
+    "id": "daily-needs",
+    "name": "Daily Needs",
+    "emoji": "🧴",
+    "description": "Sabun, shampoo, skincare basic, dll"
+  },
+  {
+    "id": "school-stuff",
+    "name": "School Stuff",
+    "emoji": "📚",
+    "description": "Alat tulis, binder, buku (Shopee)"
+  },
+  {
+    "id": "fashion-shopee",
+    "name": "Fashion Shopee",
+    "emoji": "👕",
+    "description": "Kaos, kaus kaki, inner, hijab dari Shopee"
+  },
+  {
+    "id": "pondok-essentials",
+    "name": "Pondok Essentials",
+    "emoji": "🛏️",
+    "description": "Hanger, laundry bag, organizer, dll"
+  },
+  {
+    "id": "kering",
+    "name": "Kering · Tahan Lama",
+    "emoji": "📦",
+    "description": "Snack & makanan kering, tahan berminggu–bulan"
+  },
+  {
+    "id": "basah",
+    "name": "Basah · Segar",
+    "emoji": "🧊",
+    "description": "Makanan basah / semi-basah, tahan beberapa hari"
+  },
+  {
+    "id": "minuman",
+    "name": "Minuman",
+    "emoji": "🧃",
+    "description": "Minuman botol, kotak, sachet"
+  },
+  {
+    "id": "other",
+    "name": "Other",
+    "emoji": "➕",
+    "description": "Item custom"
+  }
+]

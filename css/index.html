@@ -1,0 +1,571 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+  <meta name="description" content="Titip Dulu — your little pondok visit-day buddy. Buat daftar belanja sebelum penjengukan." />
+  <meta name="theme-color" content="#F4C7CE" />
+  <title>🧺 Titip Dulu ♡</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;500;600;700;800&family=Caveat:wght@500;600;700&family=Patrick+Hand&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <!-- Toast -->
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+
+  <!-- Confetti container -->
+  <div id="confetti-container" class="confetti-container" aria-hidden="true"></div>
+
+  <!-- App Shell -->
+  <div id="app" class="app">
+    <!-- Header (desktop + mobile top) -->
+    <header class="header">
+      <div class="header-inner">
+        <button class="logo" data-nav="home" aria-label="Ke beranda">
+          <span class="logo-emoji">🧺</span>
+          <span class="logo-text">titip dulu</span>
+          <span class="logo-heart">♡</span>
+        </button>
+        <div class="header-actions">
+          <button class="icon-btn" id="btn-theme-toggle" aria-label="Ganti tema" title="tema">🌙</button>
+          <button class="icon-btn" id="btn-search-toggle" aria-label="Cari produk">
+            <span>🔎</span>
+          </button>
+          <button class="icon-btn budget-pill" id="header-budget" aria-label="Lihat budget">
+            <span id="header-budget-text">Rp0</span>
+          </button>
+        </div>
+      </div>
+      <!-- Search bar (expandable) -->
+      <div class="search-bar" id="search-bar" hidden>
+        <input type="search" id="search-input" placeholder="cari produk..." autocomplete="off" aria-label="Cari produk" />
+        <button class="icon-btn" id="search-close" aria-label="Tutup pencarian">✕</button>
+      </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="main" id="main">
+      <!-- HOME VIEW -->
+      <section id="view-home" class="view active" data-view="home">
+        <div class="hero">
+          <div class="hero-illustration" aria-hidden="true">
+            <div class="basket-doodle">🧺</div>
+            <div class="floating-hearts">
+              <span>♡</span><span>♡</span><span>♡</span>
+            </div>
+          </div>
+          <h1 class="hero-title">titip dulu <span class="heart">♡</span></h1>
+          <p class="hero-tagline">your little pondok visit-day buddy</p>
+          <p class="hero-sub">before Mama comes, make sure you don't forget anything...</p>
+
+          <div class="mood-picker" id="mood-picker">
+            <span class="mood-label">mood hari ini</span>
+            <div class="mood-row">
+              <button type="button" class="mood-btn" data-mood="senang" title="senang">🥰</button>
+              <button type="button" class="mood-btn" data-mood="semangat" title="semangat">✨</button>
+              <button type="button" class="mood-btn" data-mood="bingung" title="bingung">😭</button>
+              <button type="button" class="mood-btn" data-mood="kangen" title="kangen Mama">🥹</button>
+              <button type="button" class="mood-btn" data-mood="santai" title="santai">🍦</button>
+            </div>
+          </div>
+
+          <div class="visit-countdown-card" id="home-countdown">
+            <div class="countdown-label">🧺 VISIT DAY</div>
+            <div class="countdown-value" id="home-countdown-value">set tanggal dulu ya</div>
+            <button class="btn-text" id="btn-set-visit-home">atur tanggal kunjungan →</button>
+          </div>
+
+          <div class="hari-h-banner" id="hari-h-banner" hidden>
+            <span>🎉 VISIT DAY IS HERE — semoga Mama bawa semua yaa 🥹♡</span>
+          </div>
+
+          <div class="hero-ctas">
+            <button class="btn btn-primary" data-nav="browse">START MY LIST</button>
+            <button class="btn btn-secondary" id="btn-what-to-bring">WHAT SHOULD I BRING?</button>
+          </div>
+        </div>
+
+        <!-- Quick actions -->
+        <div class="quick-actions">
+          <button class="quick-card" data-nav="list">
+            <span class="quick-emoji">🧺</span>
+            <span>my list</span>
+          </button>
+          <button class="quick-card" data-nav="favorites">
+            <span class="quick-emoji">⭐</span>
+            <span>usuals</span>
+          </button>
+          <button class="quick-card" id="btn-repeat-last">
+            <span class="quick-emoji">🔁</span>
+            <span>repeat last</span>
+          </button>
+          <button class="quick-card" id="btn-surprise">
+            <span class="quick-emoji">🎲</span>
+            <span>surprise me</span>
+          </button>
+        </div>
+        <div class="quick-actions secondary-quick">
+          <button class="quick-card" id="btn-history">
+            <span class="quick-emoji">🕐</span>
+            <span>riwayat</span>
+          </button>
+          <button class="quick-card" id="btn-home-templates">
+            <span class="quick-emoji">💬</span>
+            <span>template</span>
+          </button>
+          <button class="quick-card" id="btn-home-custom">
+            <span class="quick-emoji">✏️</span>
+            <span>tulis bebas</span>
+          </button>
+          <button class="quick-card" id="btn-home-shopee">
+            <span class="quick-emoji">🛍️</span>
+            <span>Shopee</span>
+          </button>
+          <button class="quick-card" data-nav="settings">
+            <span class="quick-emoji">💌</span>
+            <span>kontak mama</span>
+          </button>
+        </div>
+
+        <!-- Tulis sendiri CTA -->
+        <button class="custom-cta" id="btn-home-custom-cta">
+          <span class="custom-cta-emoji">✏️</span>
+          <div>
+            <strong>mau nulis bebas?</strong>
+            <span>ketik banyak sekaligus — 1 baris = 1 item</span>
+          </div>
+          <span class="custom-cta-arrow">→</span>
+        </button>
+
+        <!-- Shopee Titip CTA -->
+        <button class="custom-cta shopee-cta" id="btn-home-shopee-cta">
+          <span class="custom-cta-emoji">🛍️</span>
+          <div>
+            <strong>mau nitip barang dari Shopee? 👀</strong>
+            <span>drop link-nya, nanti masuk ke list titipan kamu</span>
+          </div>
+          <span class="custom-cta-arrow">→</span>
+        </button>
+
+        <!-- Categories preview -->
+        <div class="section-header">
+          <h2>kategori</h2>
+        </div>
+        <div class="category-scroll" id="home-categories"></div>
+
+        <!-- Achievements -->
+        <div class="achievements" id="achievements">
+          <h2 class="achievements-title">badge kamu 🏆</h2>
+          <div class="badge-row" id="badge-row"></div>
+        </div>
+
+        <!-- Price disclaimer -->
+        <p class="disclaimer">
+          💡 Harga hanya estimasi. Bisa berbeda tergantung toko, lokasi & promo.
+        </p>
+      </section>
+
+      <!-- BROWSE VIEW -->
+      <section id="view-browse" class="view" data-view="browse">
+        <div class="browse-header">
+          <h2>browse items</h2>
+          <div class="filters">
+            <select id="filter-category" aria-label="Filter kategori">
+              <option value="">semua kategori</option>
+            </select>
+            <select id="filter-store" aria-label="Filter toko">
+              <option value="">semua toko</option>
+            </select>
+          </div>
+        </div>
+        <div class="product-grid" id="product-grid"></div>
+        <p class="disclaimer small">Harga bisa berubah. Edit sendiri kalau perlu ya.</p>
+      </section>
+
+      <!-- LIST VIEW -->
+      <section id="view-list" class="view" data-view="list">
+        <div class="list-header">
+          <h2>my titipan 🧺</h2>
+          <div class="list-stats" id="list-stats">
+            <span>0 item</span>
+            <span>•</span>
+            <span>est. Rp0</span>
+          </div>
+        </div>
+
+        <div class="budget-bar-wrap" id="budget-bar-wrap">
+          <div class="budget-info">
+            <span>budget</span>
+            <span id="budget-remaining">masih aman ♡</span>
+          </div>
+          <div class="budget-bar">
+            <div class="budget-fill" id="budget-fill"></div>
+          </div>
+          <div class="budget-numbers">
+            <span id="budget-used">Rp0</span>
+            <button type="button" class="budget-edit-btn" id="btn-edit-budget" title="Ubah budget">
+              <span id="budget-total">/ Rp150.000</span> ✏️
+            </button>
+          </div>
+        </div>
+
+        <div class="list-actions">
+          <button class="btn btn-primary btn-sm" id="btn-add-custom">✏️ tulis bebas</button>
+          <button class="btn btn-sm btn-outline" id="btn-check-list">check 👀</button>
+        </div>
+        <button class="btn btn-mama" id="btn-share">💌 kirim ke mama</button>
+
+        <!-- Bag fullness fun meter -->
+        <div class="bag-meter" id="bag-meter">
+          <div class="bag-meter-label">
+            <span>🧺 seberapa penuh keranjang?</span>
+            <span id="bag-meter-text">kosong</span>
+          </div>
+          <div class="bag-meter-bar"><div class="bag-meter-fill" id="bag-meter-fill"></div></div>
+        </div>
+
+        <!-- Smart suggestions -->
+        <div class="smart-box" id="smart-box" hidden>
+          <div class="smart-title">💡 mungkin kamu lupa...</div>
+          <div class="smart-chips" id="smart-chips"></div>
+        </div>
+
+        <div id="list-content" class="list-content">
+          <!-- filled by JS -->
+        </div>
+
+        <div class="packing-progress" id="packing-progress" hidden>
+          <div class="packing-row">
+            <div class="ring-wrap" aria-hidden="true">
+              <svg class="progress-ring" viewBox="0 0 36 36">
+                <path class="ring-bg" d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831"/>
+                <path class="ring-fg" id="packing-ring" stroke-dasharray="0, 100" d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831"/>
+              </svg>
+              <span class="ring-label" id="packing-pct">0%</span>
+            </div>
+            <div class="packing-meta">
+              <div class="progress-text" id="packing-text">0 / 0 items ready ♡</div>
+              <div class="progress-bar"><div class="progress-fill" id="packing-fill"></div></div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Visit journal -->
+        <div class="journal-box" id="journal-box">
+          <label for="visit-journal">📝 catatan penjengukan</label>
+          <textarea id="visit-journal" rows="3" placeholder="contoh: Mama bawa basreng banyak banget, next minta buku gambar juga..."></textarea>
+          <button class="btn btn-sm btn-outline" id="btn-save-journal">simpan catatan</button>
+        </div>
+      </section>
+
+      <!-- FAVORITES VIEW -->
+      <section id="view-favorites" class="view" data-view="favorites">
+        <div class="section-header">
+          <h2>my usuals ⭐</h2>
+          <button class="btn btn-sm" id="btn-add-all-fav" hidden>add all to list</button>
+        </div>
+        <div id="favorites-content" class="product-grid">
+          <!-- filled by JS -->
+        </div>
+      </section>
+
+      <!-- SETTINGS VIEW -->
+      <section id="view-settings" class="view" data-view="settings">
+        <h2>settings ⚙️</h2>
+        <div class="settings-card">
+          <label for="setting-name">Nama kamu</label>
+          <input type="text" id="setting-name" placeholder="nama kamu" />
+        </div>
+        <div class="settings-card">
+          <label for="setting-visit-date">Tanggal Kunjungan</label>
+          <input type="date" id="setting-visit-date" />
+        </div>
+        <div class="settings-card">
+          <label for="setting-visit-time">Waktu (opsional)</label>
+          <input type="time" id="setting-visit-time" />
+        </div>
+
+        <h3 class="settings-section-title">kontak mama 💌</h3>
+        <div class="settings-card">
+          <label for="setting-mama-wa">No. WhatsApp Mama</label>
+          <input type="tel" id="setting-mama-wa" placeholder="08xxxxxxxxxx atau 628xxx" />
+          <p class="field-hint">biar bisa langsung kirim list lewat WA</p>
+        </div>
+        <div class="settings-card">
+          <label for="setting-mama-ig">Instagram Mama (opsional)</label>
+          <input type="text" id="setting-mama-ig" placeholder="@username" />
+        </div>
+        <div class="settings-card">
+          <label for="setting-mama-note">Pesan penutup ke Mama</label>
+          <input type="text" id="setting-mama-note" placeholder="makasii Mamaa 🥹🤍" />
+        </div>
+
+        <div class="settings-card">
+          <label>Countdown</label>
+          <div class="countdown-big" id="settings-countdown">
+            <div class="cd-unit"><span id="cd-days">00</span><small>days</small></div>
+            <div class="cd-unit"><span id="cd-hours">00</span><small>hours</small></div>
+            <div class="cd-unit"><span id="cd-mins">00</span><small>mins</small></div>
+            <div class="cd-unit"><span id="cd-secs">00</span><small>secs</small></div>
+          </div>
+        </div>
+        <div class="settings-actions">
+          <button class="btn btn-primary" id="btn-save-settings">simpan</button>
+          <button class="btn btn-outline danger" id="btn-reset-data">reset semua data</button>
+        </div>
+        <p class="disclaimer small">Data disimpan di perangkat kamu (localStorage).</p>
+      </section>
+    </main>
+
+    <!-- Sticky List Summary (mobile) -->
+    <div class="sticky-summary" id="sticky-summary" hidden>
+      <div class="sticky-info">
+        <span id="sticky-count">0 item</span>
+        <span id="sticky-total">Rp0</span>
+      </div>
+      <button class="btn btn-sm" data-nav="list">lihat list</button>
+    </div>
+
+    <!-- Bottom Navigation (mobile) -->
+    <nav class="bottom-nav" aria-label="Navigasi utama">
+      <button class="nav-item active" data-nav="home" aria-label="Beranda">
+        <span class="nav-icon">🏠</span>
+        <span class="nav-label">home</span>
+      </button>
+      <button class="nav-item" data-nav="browse" aria-label="Browse">
+        <span class="nav-icon">🛍️</span>
+        <span class="nav-label">browse</span>
+      </button>
+      <button class="nav-item nav-center" data-nav="list" aria-label="My List">
+        <span class="nav-icon">🧺</span>
+        <span class="nav-label">list</span>
+        <span class="badge" id="nav-badge" hidden>0</span>
+      </button>
+      <button class="nav-item" data-nav="favorites" aria-label="Favorites">
+        <span class="nav-icon">⭐</span>
+        <span class="nav-label">usuals</span>
+      </button>
+      <button class="nav-item" data-nav="settings" aria-label="Settings">
+        <span class="nav-icon">⚙️</span>
+        <span class="nav-label">settings</span>
+      </button>
+    </nav>
+  </div>
+
+  <!-- MODALS / BOTTOM SHEETS -->
+  <!-- Custom / Free write Modal -->
+  <div class="modal-overlay" id="modal-custom" hidden>
+    <div class="modal" role="dialog" aria-labelledby="modal-custom-title">
+      <div class="modal-header">
+        <h3 id="modal-custom-title">✏️ tulis bebas</h3>
+        <button class="icon-btn modal-close" aria-label="Tutup">✕</button>
+      </div>
+      <div class="modal-body">
+        <div class="custom-tabs">
+          <button type="button" class="custom-tab active" data-tab="bulk">banyak sekaligus</button>
+          <button type="button" class="custom-tab" data-tab="single">satu-satu</button>
+        </div>
+
+        <div id="tab-bulk" class="custom-tab-panel">
+          <label>Tulis apa aja (1 baris = 1 item)</label>
+          <textarea id="custom-bulk" rows="10" placeholder="basreng pedes 2 bungkus&#10;shampoo&#10;buku tulis 3&#10;charger type-c&#10;keripik bu ani yang pedes&#10;kaos kaki&#10;..."></textarea>
+          <p class="field-hint">bebas tanpa batas · tanpa harga · tidak masuk budget. kategori opsional.</p>
+          <label>Kategori default (opsional)</label>
+          <select id="custom-bulk-category"></select>
+        </div>
+
+        <div id="tab-single" class="custom-tab-panel" hidden>
+          <label>Nama item</label>
+          <input type="text" id="custom-name" placeholder="ketik bebas, apa aja" />
+          <label>Kategori (opsional)</label>
+          <select id="custom-category"></select>
+          <label>Toko / Sumber (opsional)</label>
+          <input type="text" id="custom-store" placeholder="boleh dikosongin" />
+          <label>Jumlah</label>
+          <input type="number" id="custom-qty" min="1" value="1" />
+          <label>Catatan (opsional)</label>
+          <input type="text" id="custom-note" placeholder="yang pedes ya hehe" />
+          <label class="check-label">
+            <input type="checkbox" id="custom-priority" /> prioritas / wajib banget ⭐
+          </label>
+          <p class="field-hint">item tulis sendiri = tanpa budget ♡</p>
+        </div>
+      </div>
+      <div class="modal-footer">
+        <button class="btn btn-primary" id="btn-save-custom">tambah ke list ♡</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Titip dari Shopee Modal -->
+  <div class="modal-overlay" id="modal-shopee" hidden>
+    <div class="modal" role="dialog" aria-labelledby="modal-shopee-title">
+      <div class="modal-header">
+        <h3 id="modal-shopee-title">🛍️ Titip dari Shopee</h3>
+        <button class="icon-btn modal-close" aria-label="Tutup">✕</button>
+      </div>
+      <div class="modal-body">
+        <p class="field-hint" style="margin-bottom:0.75rem">Paste link produk Shopee + detailnya. Mama nanti bisa buka link-nya langsung ✨</p>
+        <label>🔗 Link Shopee</label>
+        <input type="url" id="shopee-link" placeholder="https://shopee.co.id/..." />
+        <label>📦 Nama barang</label>
+        <input type="text" id="shopee-name" placeholder="contoh: pouch makeup aesthetic" />
+        <label>Kategori</label>
+        <select id="shopee-category">
+          <option value="shopee">🛍️ Shopee Finds</option>
+          <option value="cute-stuff">🎀 Cute Stuff</option>
+          <option value="school-stuff">📚 School Stuff</option>
+          <option value="daily-needs">🧴 Daily Needs</option>
+          <option value="pondok-essentials">🛏️ Pondok Essentials</option>
+          <option value="fashion-shopee">👕 Fashion Shopee</option>
+          <option value="jajanan">🍪 Snacks</option>
+          <option value="other">➕ Other</option>
+        </select>
+        <label>🔢 Jumlah</label>
+        <input type="number" id="shopee-qty" min="1" value="1" />
+        <label>💸 Estimasi harga (Rp)</label>
+        <input type="number" id="shopee-price" min="0" step="1000" placeholder="opsional, biar masuk budget" />
+        <label>📝 Catatan — warna, ukuran, varian, dll.</label>
+        <input type="text" id="shopee-note" placeholder="warna pink, size M, yang murah ya..." />
+        <label class="check-label">
+          <input type="checkbox" id="shopee-priority" /> prioritas / wajib banget ⭐
+        </label>
+      </div>
+      <div class="modal-footer">
+        <button class="btn btn-primary" id="btn-save-shopee">tambah ke list ♡</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Edit Item Modal -->
+  <div class="modal-overlay" id="modal-edit" hidden>
+    <div class="modal" role="dialog" aria-labelledby="modal-edit-title">
+      <div class="modal-header">
+        <h3 id="modal-edit-title">edit item</h3>
+        <button class="icon-btn modal-close" aria-label="Tutup">✕</button>
+      </div>
+      <div class="modal-body">
+        <label>Nama</label>
+        <input type="text" id="edit-name" />
+        <label>Harga (Rp)</label>
+        <input type="number" id="edit-price" min="0" step="500" placeholder="0 = belum diisi" />
+        <label>Catatan</label>
+        <input type="text" id="edit-note" placeholder="catatan..." />
+        <label class="check-label">
+          <input type="checkbox" id="edit-priority" /> prioritas / wajib banget ⭐
+        </label>
+      </div>
+      <div class="modal-footer">
+        <button class="btn btn-primary" id="btn-save-edit">simpan</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Surprise Modal -->
+  <div class="modal-overlay" id="modal-surprise" hidden>
+    <div class="modal" role="dialog" aria-labelledby="modal-surprise-title">
+      <div class="modal-header">
+        <h3 id="modal-surprise-title">idk what i want 😭</h3>
+        <button class="icon-btn modal-close" aria-label="Tutup">✕</button>
+      </div>
+      <div class="modal-body">
+        <p class="modal-desc">mau berapa item yang di-random?</p>
+        <div class="surprise-btns">
+          <button class="btn btn-outline" data-surprise="1">1 item</button>
+          <button class="btn btn-outline" data-surprise="3">3 items</button>
+          <button class="btn btn-outline" data-surprise="5">5 items</button>
+        </div>
+        <div id="surprise-results" class="surprise-results" hidden></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Share Modal -->
+  <div class="modal-overlay" id="modal-share" hidden>
+    <div class="modal" role="dialog" aria-labelledby="modal-share-title">
+      <div class="modal-header">
+        <h3 id="modal-share-title">kirim ke mama 💌</h3>
+        <button class="icon-btn modal-close" aria-label="Tutup">✕</button>
+      </div>
+      <div class="modal-body">
+        <label class="share-label">pilih gaya pesan</label>
+        <div class="template-chips" id="template-chips">
+          <button type="button" class="tpl-chip active" data-tpl="default">lengkap</button>
+          <button type="button" class="tpl-chip" data-tpl="short">singkat</button>
+          <button type="button" class="tpl-chip" data-tpl="budget">+ budget</button>
+          <button type="button" class="tpl-chip" data-tpl="priority">prioritas dulu</button>
+          <button type="button" class="tpl-chip" data-tpl="polite">lebih sopan</button>
+        </div>
+        <pre id="share-text" class="share-preview"></pre>
+        <p class="field-hint" id="share-mama-hint">isi no WA Mama di Settings biar bisa kirim langsung</p>
+      </div>
+      <div class="modal-footer share-actions">
+        <button class="btn btn-wa" id="btn-wa-send">💬 WhatsApp Mama</button>
+        <button class="btn btn-primary" id="btn-copy-list">copy list</button>
+        <button class="btn btn-outline" id="btn-ig-open" hidden>📸 buka IG Mama</button>
+        <button class="btn btn-secondary" id="btn-web-share" hidden>share lain...</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- History Modal -->
+  <div class="modal-overlay" id="modal-history" hidden>
+    <div class="modal" role="dialog" aria-labelledby="modal-history-title">
+      <div class="modal-header">
+        <h3 id="modal-history-title">riwayat titipan 🕐</h3>
+        <button class="icon-btn modal-close" aria-label="Tutup">✕</button>
+      </div>
+      <div class="modal-body" id="history-list">
+        <!-- filled by JS -->
+      </div>
+    </div>
+  </div>
+
+  <!-- Check List Modal -->
+  <div class="modal-overlay" id="modal-check" hidden>
+    <div class="modal" role="dialog" aria-labelledby="modal-check-title">
+      <div class="modal-header">
+        <h3 id="modal-check-title">did you forget something? 👀</h3>
+        <button class="icon-btn modal-close" aria-label="Tutup">✕</button>
+      </div>
+      <div class="modal-body" id="check-results">
+        <!-- filled by JS -->
+      </div>
+      <div class="modal-footer">
+        <button class="btn btn-primary modal-close">oke deh</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- What to bring Modal -->
+  <div class="modal-overlay" id="modal-tips" hidden>
+    <div class="modal" role="dialog" aria-labelledby="modal-tips-title">
+      <div class="modal-header">
+        <h3 id="modal-tips-title">what should i bring?</h3>
+        <button class="icon-btn modal-close" aria-label="Tutup">✕</button>
+      </div>
+      <div class="modal-body tips-body">
+        <p>💡 Beberapa ide sebelum penjengukan:</p>
+        <ul>
+          <li>🍪 Jajanan favorit (basreng, makaroni, dll)</li>
+          <li>🧴 Toiletries yang hampir habis</li>
+          <li>📚 ATK & buku tulis</li>
+          <li>👕 Pakaian ganti / kaos kaki</li>
+          <li>🕌 Keperluan pondok (sarung, mukena...)</li>
+          <li>🔌 Charger / kabel / powerbank</li>
+          <li>💊 Keperluan pribadi</li>
+        </ul>
+        <p class="tips-note">Cek list kamu, nanti ada reminder juga kok ♡</p>
+      </div>
+      <div class="modal-footer">
+        <button class="btn btn-primary" data-nav="browse">mulai browse</button>
+      </div>
+    </div>
+  </div>
+
+  <script src="js/data.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
